@@ -17,6 +17,7 @@ class Reddit():
 
         res = requests.post('https://www.reddit.com/api/v1/access_token',
                         auth=auth, data=data, headers=headers)
+        print(res.json())
 
         expires_in = res.json()['expires_in']
 
@@ -32,7 +33,7 @@ class Reddit():
     
     def get_request(self, url):
         if self.valid < datetime.now():
-            refresh_token()
+            self.refresh_token()
         res = requests.get(url, headers=self.headers)
         if res.status_code == 200:
             return res.json()
