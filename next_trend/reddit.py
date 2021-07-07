@@ -1,16 +1,17 @@
 import requests
 from datetime import datetime, timedelta
+import os
 
 class Reddit():
     def __init__(self):
         self.refresh_token()
         
     def refresh_token(self):
-        auth = requests.auth.HTTPBasicAuth(CLIENT_ID, SECRET_KEY)
+        auth = requests.auth.HTTPBasicAuth(os.getenv('CLIENT_ID'), os.getenv('SECRET_KEY'))
 
         data = {'grant_type': 'password',
-            'username': 'netomathedi',
-            'password': 'senhasenha'}
+            'username': os.getenv('USERNAME'),
+            'password': os.getenv('PASSWORD')}
 
         headers = {'User-Agent': 'MyBot/0.0.1'}
 
@@ -32,6 +33,11 @@ class Reddit():
     def get_request(self, url):
         if self.valid < datetime.now():
             refresh_token()
-        res = requests.get(url, headers=headers)
+        res = requests.get(url, headers=self.headers)
         if res.status_code == 200:
             return res.json()
+
+
+if __name__ == '__main__':
+  reddit = Reddit()
+  print(reddit.get_request('https://oauth.reddit.com/api/v1/me'))
