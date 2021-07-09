@@ -30,10 +30,10 @@ class Reddit():
         valid = now + interval
         self.headers, self.valid = headers, valid
     
-    def get_request(self, url):
+    def get_request(self, url, limit=27):
         if self.valid < datetime.now():
-            refresh_token()
-        res = requests.get(url, headers=self.headers)
+            self.refresh_token()
+        res = requests.get(url, headers=self.headers, params={"limit": limit})
         if res.status_code == 200:
             return res.json()
 
