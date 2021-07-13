@@ -14,11 +14,11 @@ class Reddit():
             'password': os.getenv('PASSWORD')}
 
         headers = {'User-Agent': 'MyBot/0.0.1'}
-
+        print(headers)
         res = requests.post('https://www.reddit.com/api/v1/access_token',
                         auth=auth, data=data, headers=headers)
 
-        expires_in = res.json()['expires_in']
+        #expires_in = res.json()['expires_in']
 
         TOKEN = res.json()['access_token']
 
