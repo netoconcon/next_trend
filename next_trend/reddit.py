@@ -30,6 +30,7 @@ class Reddit():
         valid = now + interval
         self.headers, self.valid = headers, valid
     
+
     def get_request(self, url, limit=25):
         if self.valid < datetime.now():
             refresh_token()
