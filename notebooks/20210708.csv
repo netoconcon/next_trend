@@ -1,0 +1,1505 @@
+,subreddit,title,selftext,upvote_ratio,ups,downs,score
+0,wallstreetbets,"Weekend Discussion Thread for the Weekend of July 09, 2021","Your weekend discussion thread. Please keep the shitposting to a maximum!
+
+Follow [@Official_WSB](https://twitter.com/Official_WSB) on Twitter, all other accounts are impersonators.
+
+Check out our [Discord](https://discord.gg/wallstreetbets)",0.83,236.0,0.0,236.0
+1,wallstreetbets,"Earnings Season Begins! Most Anticipated Earnings Releases for the week beginning July 12th, 2021",,0.91,183.0,0.0,183.0
+2,wallstreetbets,-101.25% daily loss,,0.94,12048.0,0.0,12048.0
+3,wallstreetbets,Everything is priced in,"Don't even ask the question. The answer is yes, it's priced in. Think Amazon will beat the next earnings? That's already been priced in. You work at the drive thru for Mickey D's and found out that the burgers are made of human meat? Priced in. You think insiders don't already know that? The market is an all powerful, all encompassing being that knows the very inner workings of your subconscious before you were even born. Your very existence was priced in decades ago when the market was valuing Standard Oil's expected future earnings based on population growth that would lead to your birth, what age you would get a car, how many times you would drive your car every week, how many times you take the bus/train, etc. Anything you can think of has already been priced in, even the things you aren't thinking of. You have no original thoughts. Your consciousness is just an illusion, a product of the omniscent market. Free will is a myth. The market sees all, knows all and will be there from the beginning of time until the end of the universe (the market has already priced in the heat death of the universe). So please, before you make a post on wsb asking whether AAPL has priced in earpods 11 sales or whatever, know that it has already been priced in and don't ask such a dumb fucking question again.",0.93,2455.0,0.0,2455.0
+4,wallstreetbets,"$90 &gt; $24,000 in one day.",,0.82,33691.0,0.0,33691.0
+5,wallstreetbets,"What I have learned in my short journey about investing, and how not to screw it up (too much) in the attempt -- The common sense when doing DDs","Hi everyone,
+
+I am a novice investor. I started a year ago to get into the world of investment, when it became clear to me that if I wanted some financial solvency, I needed to do more than working 8h/day and putting my money in an account just losing its value. Since then, I have tried to learn as much as I can, through books, articles and of course internet.
+
+I am still ignorant, I'm not gonna lie, and I still have a long way to go, as long as life itself, to start seeing results. But that's OK. It takes time, a lot of time, especially if investing is not your main task, as in my case.
+
+Nevertheless, I can say that I am rather happy with what I have learnt. That is why I would like to share with you a summary of what I have been able to acquire.  I think that as I am still a novice, my point of view could be also useful for those who are still starting out like me. And of course, thanks also to those with more experience, who can contribute with their feedback.
+
+Let's get started with the ""guide"" I use for investing.
+
+# Before we start
+
+1. There are certain terms that we need to remember very well. First, we must understand the basic principles for the accounting of a company:
+
+|*Accounting*|*Where can you find it?*|*What does it explain?*|*How should it be?*|
+|:-|:-|:-|:-|
+|**Assets** \- **Liabilities** = **Net Equity** (also called Net Worth, Shareholder's Equity or just Equity)|**Balance Sheet**|Solvency: Ability for the company to pay its debts and going though.|**Net Equity** should grow regularly|
+|**Income** (Sales) - **Expenses** = **Net Income** (also called Net Profit or Net Earnings)|**Income Statement**|Profitability|Positive (which can be used by the company for reinvesting, paying debts or in dividends)|
+
+Where to find this data? The EDGAR database from SEC contains every listed company, along with their reports. The most important ones are **10K** and **10Q**. Remember to compare the values with the same moments during the year.
+
+**10K reports**: annual and must include audited financial statements.**10Q reports**: quarterly and include unaudited financial statements.
+
+EDGAR Database: [https://www.sec.gov/edgar/searchedgar/companysearch.html](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+
+\---
+
+2. Also, is essential to know what we are investing in. Stocks can be classified as:
+
+|*Type of Stock*|*Description*|*What does it suppose?*|
+|:-|:-|:-|
+|Growth stock|When it grows faster and higher than the overall stock market.|**Better prospects** **for growth** in the immediate future but **more risk**|
+|Value stock|When is priced lower than the value of the company and its assets.|**Steadier growth** over a longer term, but have **less risk**|
+
+You may ask yourself, which stock is better. After all, **both**. Seek solid, value-oriented companies in growing industries. Value-oriented approaches to growth investing are the best, imo. Analyze the company fundamentals, seek value when you are buying and analyze the company's prospect to grow. On the other side, in the case of growth-stocks, buy only if it makes a profit and if you understand how it makes that profit and from where it generates sales.
+
+\--
+
+# Doing your own DD
+
+&amp;#x200B;
+
+|**Previous Steps**|
+|:-|
+
+
+The question we all do ourselves: How to choose a winning stock? Let's start answering first some questions:
+
+1. You never start looking to the stock tables, **you finish there.**
+
+Start informing yourself about the environment (technology, politics, economics, demographics...) and choose an **industry** that, you believe, will benefit. Example: Audi will stop manufacturing combustion cars by 2030 and focus on electric mobility; Company X partners with Nvidia to open a R&amp;D center for DL; Hospital X makes the first successful operation with a surgical robot brand XYZ. You know what I am talking about.
+
+2. Once you have an industry, we can start looking for companies.
+
+The tedious work. Only golden rule: Do. Not. Trust. only one source. Get multiple views, search, search and search, and don't base your investment on just one comment/article/opinion. This should be obvious, but we all (included me) have made this mistake.
+
+3. Have a company? Let's start crossing points in the checklist.
+
+Now it comes the serious business. For a noob like me, when I started reading and researching on my own, I couldn't imagine the diversity of opinions and different strategies out there when analyzing the value of a stock. In fact, I was surprised to see so many people though that is virtually impossible to  get ahead of the market, since a company's real value is and will be always reflected by its current stock price, and nowadays, news (and therefore, the economy) travel so fast that every time something (good or bad) happens for a company, it will be already reflected in the stock. In the end, there are many, multiple variables that affect the price. Not only technical - you have hype, hedge funds, market manipulation, and other thousand factors that I neither understand nor have any control over.
+
+In the end I came to the conclusion that one has to fight with one's own weapons. Obviously, you're never going to outperform an investor who works 10 hours a day, but you don't need to be one either. In the same way that you don't need to be a professional cook to make a fucking good lasagna.
+
+Assuming that the lottery of timing the market is almost impossible, we can still do (a lot) of things. Choosing a good, healthy, growing company will be always a much better bet. At least, doing this, you will be sure that there is a reasoning for your investment, you will be more confident, you will follow up much more close the news related to that company/industry, and above at all, you will have more **PATIENCE** to hold and ending up seeing green numbers.
+
+&amp;#x200B;
+
+|**First Filter**|
+|:-|
+
+
+You want a company that gives you a ""**yes""** for the following questions:
+
+|Is the company making more **Net Income** (Sales - Expenses) than it did last year?|You want to invest in growing companies.|
+|:-|:-|
+|Are the company's **sales** greater than they were the year before?|The company needs to make money so you can make money too.|
+|Is the company issuing **press releases** on new products, services, inventions or business deals?|You want to invest in a ""living"" company.|
+
+&amp;#x200B;
+
+|**Second Filter**|
+|:-|
+
+
+Are you happy so far? If so, let's go deeper into the details. To do this, follow a simple rule: **The 10's rule.**  From now own, you are gonna compare values with respect to the previous one, two or three years, and see how the change is.  You want to have a company that, ideally, improves with a magnitude of **10%** compared to the previous year.
+
+*Note: Go to the table at the beginning if you need to remember each term and where to find it.*
+
+* **Balance Sheet**
+   * Total Assets: Has it grown in the last years? If yes, how much exactly?
+   * Total Liabilities (what you own, debt): Has it decreased in the last years? If yes, how much?
+   * Net Equity: Has it grown in the last years? If yes, how much exactly?
+* **Income Statement:**
+   * Sales (Total Revenue): Has it grown in the last years? If yes, how much exactly?
+   * Expenses: Has it decreased in the last years? If yes, how much?
+   * Net Income: Has it grown in the last years? If yes, how much exactly?
+
+Here you need to make some numbers. Just make an Excel where you can put the values for each year, do the math and see if is actually improving. Did you get a ""**yes**"" for every question? Or even better, almost 10% of improvement some of them? Then we continue:
+
+&amp;#x200B;
+
+|**Third Filter**|
+|:-|
+
+
+Let's see the **ROE** (Return on equity). It is a measure of financial performance calculated by dividing the **Net Income** by **Net Equity**. Because the **Net Equity** is equal to a company’s assets minus its liabilities (debt), the **ROE** is considered the return on net assets. ROE is a **measure of the profitability of a corporation.**
+
+How much should the ROE be? Exactly, around **+10%** with respect to the previous year. That would mean that the company is in good hands.
+
+&amp;#x200B;
+
+|**Fourth Filter**|
+|:-|
+
+
+**EPS (Earnings per Share)**: This is calculated as the company's **earnings** divided by the outstanding number of shares. In other words, it indicates **how much money the company makes for each share of its stock**. It is normally used to estimate its corporate value.
+
+A higher EPS means greater value, as the company has higher profits relative to the share price.
+
+**P/R Ratio (Price/Earnings)**: Now, take the price of one share and divide it by the previous EPS. This is the P/E Ratio. In other words, i**t indicates how much you can expect to invest in order to receive one dollar of that's company's earnings.** In other sentence, it tells how much investors are willing to pay for one dollar of earnings. Example: If the P/E is 20, then the investor is willing to pay $20 for $1 of earnings. All these, gives you an idea about if the company is **over-** or **under-valued**.
+
+A higher P/E Ratio (caused by high stock price and/or low earnings) suggest that investors **expect higher earnings growth** in the future (although it may have low earnings), even if that means it is **over-valued**.
+
+A low P/E Ratio (caused by low stock price and/or high earnings) indicates that the company might be **undervalued** and/or that the company **is actually doing pretty well** (high earnings given a low stock price). In this last case, it could mean that you are looking at something worth paying attention to.
+
+When the P/E is N/A, the company does not have earnings or is in loss.
+
+Compare always this ratios with peer companies in the **same industry group** to have a reference or the P/E of that market itself (e.g. S&amp;P 500 P/E Ratio is 15 more or less). In general terms, for the P/E ratio you can expect the following:
+
+* P/E = **N/A** : No earnings / in loss.
+* P/E = **1-15** : The company's value should be more compared to its earnings (under-valued) OR there is less sentiment regarding growth. They are **less risky** investments.
+* P/E = **15 - 20** :  Normal value, according to the growth of the market.
+* P/E &gt;= **20** : The company's value should be less compared to its earnings (over-valued) OR there is a high sentiment regarding growth. They are **more risky** investments.
+
+Are you a **value-stock** investor? Look for a P/E between 10 and 25. More oriented to **growth-stocks**? Get higher. But remember, higher the P/E Ratio, higher the risk.
+
+&amp;#x200B;
+
+|**Fifth Filter**|
+|:-|
+
+
+Keep doing research! This was just a extremely simple guide. Do you find a parameter that you don't have a clue what does it means, and is very different compared to a peer company? Search what it means!
+
+It's difficult to be sure when you should invest in the stock, but if you follow the previous steps, at least you will now that you did your job. You can even make an excel where you feel comfortable. Import the data to have all the info at once so you can know if the company is worth investing. And above all, have patience. You are in this game for many years.
+
+\--
+
+If this helps at least one person, it will have been worth it. I hope you guys liked it and please do not hesitate to tell if you have any comment or feedback. Cheers!!",0.9,158.0,0.0,158.0
+6,wallstreetbets,"$320 -&gt; $13,500 , 2 SPY trades",,0.95,1619.0,0.0,1619.0
+7,wallstreetbets,Are we expecting higher inflation over the next several months?,"Just last month, inflation rose to 0.6%. This is just among the series of inflations that began in April (0.8%) and March (0.6%) this year. I was scrolling through this [newsletter](https://karlstack.substack.com/p/polymarket-prediction-june-inflation) and it gave me some insight as to how CPI will probably reach 0.6% again for June. I am not certain, but I believe it is very likely that it will happen.
+
+For me, I think we’re going towards an era of higher inflation, which was highly affected by the pandemic that has now brought about increasing vaccination rates, less business restrictions, pandemic relief programs and consumer savings. 
+
+With this development, I’m contemplating on trading a forecast in Polymarket, seeing how there is a possibility that we get more inflation in the coming months.",0.89,91.0,0.0,91.0
+8,wallstreetbets,Earnings Season Begins!,,0.94,48.0,0.0,48.0
+9,wallstreetbets,"This week in the market, summarized. (Episode 2)",,0.76,36.0,0.0,36.0
+10,wallstreetbets,I want to ride the next hype and start an ATH position,,0.97,2625.0,0.0,2625.0
+11,wallstreetbets,Stocks only go up 🤡,,0.88,24.0,0.0,24.0
+12,wallstreetbets,The secrets to my success for beginners *not financial advice,,0.97,4651.0,0.0,4651.0
+13,wallstreetbets,Sofi nio wish ….. YOLO one of these retards gotta blow up right ?,,0.92,21.0,0.0,21.0
+14,wallstreetbets,"DOWN WITH APPLE 🍎💣 $400,000 SHORT!!!",,0.87,498.0,0.0,498.0
+15,wallstreetbets,Me buying the fkn dip while the market is crashing,,0.95,16765.0,0.0,16765.0
+16,wallstreetbets,WSB Pickle Rick!!,,0.8,15.0,0.0,15.0
+17,wallstreetbets,Critical Value Theory: Why Virgin Galactic (SPCE) is at bare minimum a $100 Billion company + Monday price prediction,"In this DD, I will attempt to prove through overwhelming evidence, historical trends,  market valuation, exponential growth, and more. That Virgin Galactic is criminally undervalued and is truly valued with other big name “potential stocks” while being historically comparable to the commercialization of the plane.
+
+
+1. What is Virgin Galactic?
+
+
+Virgin Galactic is an aerospace company that provides human spaceflight for private individuals and researchers. The company is focused on developing a spaceflight system to offer customers a multi-day experience culminating in a spaceflight that includes several minutes of weightlessness and views of earth from space. 
+
+Easily summarized by themselves on their website saying their mission is
+
+“to be the Spaceline for Earth, means we focus on using space for good while delivering an unparalleled customer experience”
+
+They are a company attempting to commercialize space travel for the average person to be able to enjoy a trip to space.
+
+This, by itself doesn’t give the company any value. Due to the unknown factors and ambitcious nature of this mission statement, it is understandable why investors would roll their eyes at the idea of this company and therefore making it not very valuable. 
+
+However, due to the way Virgin Galactic is conducting itself and the way it presents itself as the first real attempt at making a commercial space traveling company, I believe this company has the potential to become one of the biggest travel line stocks in the world.
+
+
+2. The market’s value system
+
+
+Lets say hypothetically, within a certain sector, there was a subsection that only accounted for roughly 2% of the overall sector, and company A contributed 79% to said subsection. 
+
+Now, it would be logical to assume that even though company A controls 79% of its subsection, it wouldn’t be a big player, as it’s entire subsection consists of only 2% of the overall sector. 
+
+But what if I told you, that company A was in fact the largest company in its entire sector at a current market cap of 632 Billion dollars, and the runner up Company B, accounting for roughly 10% of all sells in the entire sector only had a current market cap of 248 Billion dollars.
+
+As I’m sure you’ve guessed by now, this isn’t hypothetical. Company B is Toyota and Company A is Tesla.
+
+Tesla. A company that controls a small subsection in the overall car market, has extremely low sale compared to other car manufacturers, and has never turned a profit off selling cars is over 2 times more valuable then the next runner up. Why?
+
+While you could ague it’s valuation a hundred different ways from retail interest to the overall Bull market. Simply put, Tesla is valued so highly for 1 major reason. Their potential.
+
+You can debate whether or not it’s rational, but it’s safe to say the market right now values a company primarily on its sector’s projected growth and the company’s own potential.
+
+While Tesla is the most drastic example, almost all the big technology companies are valued similarly. 
+
+Apple is the largest company in the world because of the belief in their potential to continuously innovate in news ways that drastically change their entire sector. 
+
+Amazon is almost universal rated a buy by most top analysts due to the potential they have in becoming a modern monopoly.
+
+Modern Criteria Value, is based not necessarily on current fundamentals and value, but the perceived potential a company has to grow within its sector.
+
+
+3. Virgin Galactic’s exponential potential
+
+On January 1st, 1914 the first ever commercial plane flew from St. Petersburg, Florida to Tampa, Florida. While not realized much at the time, this one flight would led to the creation 
+of the multi trillion dollar industry that is modern day airlines.
+
+And now, with interest in space travel at an all time high, and test flights like the one this upcoming Sunday making it more of a reality, one has to ask. 
+
+What’s stopping history from repeating itself, and what will happen when investors realize this exponential market Space itself could potentially become. As Virgin Galactic push’s to make itself the number one most valuable space company, past private companies like SpaceX (with a market cap estimated to be 75 billion), the potential in this extremely lucrative future market will soon be realized by investors as they continue to look for huge potential stocks.
+
+
+
+
+As far as Monday’s flight is concerned, how successful it is and the announcement afterwards are secondary for Monday’s price.
+
+The main determinant in Monday’s price action will be how Virgin Galactic’s flight is portrayed by the media.
+
+If it is portrayed poorly, or average. We will most likely see a rough sell off.
+
+However, I personally believe will see an image of hope and excitement painted, As the media proclaims this to be a great leap for humanity as a whole (over exaggerating for attention).
+
+In this case, we will see a massive run on Monday, with consolidation later in the week followed by more soaring.
+
+
+
+
+I hope you enjoyed reading my personal take on the overall situation regarding $SPCE. And I wish all of you a good evening.",0.65,53.0,0.0,53.0
+18,wallstreetbets,Fucking gay bears almost got me... 🐻🌈,,0.89,304.0,0.0,304.0
+19,wallstreetbets,Bears aren't real,"I've just come back from 6 months in the woods. I ate nothing but forged food I caught with a survival knife. For reference I'm in Northern California, in the foothills.
+
+During my time living amongst the beautiful nature and wildlife of these majestic woodlands I discovered one undeniable fact; there is no such thing as a bear and there never was. 
+
+Now let me be really clear: I'm talking specifically about people who make money on stocks going down. They're not living in the woods y'all. They don't have bloody twig diarrhea or facial scarring from eating raw honey. They didn't have to scratch their backs on a log to dislodge ticks or eat raw salmon when they couldn't get a fire going. Hell my phone was turned off the whole time cuz there's nowhere to charge it! How is someone out here going to make any money this way, let alone shaving or wearing clothes. At one point I even had to break into some camper's cooler and steal food. I'm not ashamed to admit I visited that campground a few times and there was a dumpster there I relied on during the harsher months. 
+
+I did it for you guys, now I'm back on Robin Hood, secure in the knowledge that nobody is secretly betting against me in the woods. At least nobody that I noticed.",0.82,85.0,0.0,85.0
+20,wallstreetbets,AMC was delisted from threshold. Here's my Analysis of the threshold listing.," **- Dec Threshold Listing Timing of AMC and Prediction of Rising Timing after Threshold Listing in June AMC Based on Past Data -**
+
+Closed days are not reflected in the calculation of business days!
+
+**12/17\~12/28** Threshold Listed (**total 7** business days)
+
+\-&gt; Started rising on January 22 (**2.33 $** ), and highest on January 27 (**$ 20.36**).
+
+(This date is 25 days from 12/17 and 18 days from 12/28, and has risen for 5 days) .
+
+This time ,
+
+**6/25 \~ 7/8** Threshold Listed (**total 9** business days)
+
+\-&gt; After 25 days from 6/25 = **7/30** , After 18 days from 7/8 = **8/3** is.
+
+The date calculation may have an error of several days, but the specific date is not important. From the end of July to the beginning of August, it can be expected that the increase will start. I think the past record can be more objective than the distribution of call options or the phrase “compulsory liquidation after 13 days.” and so on.
+
+&amp;#x200B;
+
+https://preview.redd.it/1af2dcc9oba71.png?width=1720&amp;format=png&amp;auto=webp&amp;s=198da9359a58ac9e2cbbe5052fb043ff1d13fba7
+
+Current SI % of FF is 19.06% . Ortex Data.
+
+I'm not a financial advisor.
+
+But fuel to go to the moon is filling up!",0.72,58.0,0.0,58.0
+21,wallstreetbets,WORKHORSE Granted 3 Patents for Manufacturing of vehicle frames &amp; incorporating removable powertrains,"
+All information below was found on the United States Patent &amp; Trademark Office Website.  The patents can be found in their entirety by searching the Patent numbers on the USPTO website.
+
+20210206121 
+20210206432 
+20210206251
+
+**United States Patent Application 20210206121 Kind CodeA1 Willison; Robert July 8, 2021** METHODS OF MAKING MONOCOQUES OF LAND VEHICLES USING MODULAR MOLD SYSTEMS  
+
+Overview: 
+
+Land vehicles, modular systems for forming monocoques of land vehicles, and methods of forming monocoques of land vehicles using modular systems are disclosed herein. In certain embodiments, the land vehicles are provided as delivery vehicles and/or utility vehicles. A land vehicle includes a monocoque supporting a plurality of wheels to permit movement of the vehicle relative to an underlying surface in use of the land vehicle.
+
+**United States Patent Application 20210206432 Kind Code A1 Willison; Robert July 8, 2021** LAND VEHICLES INCORPORATING MONOCOQUES AND MODULAR MOLD SYSTEMS FOR MAKING THE SAME  
+
+
+Overview:
+
+Land vehicles, modular systems for forming monocoques of land vehicles, and methods of forming monocoques of land vehicles using modular systems are disclosed herein. In certain embodiments, the land vehicles are provided as delivery vehicles and/or utility vehicles. A land vehicle includes a monocoque supporting a plurality of wheels to permit movement of the vehicle relative to an underlying surface in use of the land vehicle.
+
+
+**United States Patent Application 20210206251 Kind CodeA1 Wires; Donald L. July 8, 2021** LAND VEHICLES INCORPORATING REMOVABLE POWERTRAIN UNITS, POWERTRAIN UNITS, AND METHODS THEREFOR  
+
+
+Overview:
+
+Land vehicles, powertrain units for land vehicles, and methods of using land vehicles are disclosed. In certain embodiments, the land vehicles are provided as delivery vehicles and/or utility vehicles. A land vehicle includes a frame structure having a front cage that defines an operator cabin and a rear floor positioned rearward of the front cage. The frame structure supports a plurality of wheels to permit movement of the vehicle relative to an underlying surface in use of the land vehicle. An underside of the frame structure is disposed in confronting relation with the underlying surface.
+
+WKHS",0.79,92.0,0.0,92.0
+22,wallstreetbets,Meme Wars 2021,,0.87,156.0,0.0,156.0
+23,wallstreetbets,Top 10 Quotes When People Getting Margin Called,"Below are the 10 things people say when I call them for margin debt. You tards making my job extra hard!
+
+1. “Sir, this is Wendy’s…” 
+
+2. “Wait wait wait, so you are saying deleting and redownlading the app will not help?” 
+
+3. “Who? Who is this? I don’t know Margin”
+
+4. “Hold my beer, calling my wife’s boyfriend’s husband.”
+
+5. “Sir, can I borrow some margin to pay the margin?”
+
+6. “I am 25X leveraged? I am simply learning from the best of the best Billy Hwang!” 
+
+7. “Sir, I think my 5-year old accidentally clicked on buy 500 SPY 400P expiring this Friday…”
+
+8. “You can’t do this to me! My mom will kick me out the basement!” 
+
+9. “Sir, can you cancel the debt and in exchange, I will give you a 5-star review.”
+
+10. “I will never financially recover from this!”",0.59,8.0,0.0,8.0
+24,wallstreetbets,Blonde or Brunette? Spicy Options..,,0.89,644.0,0.0,644.0
+25,wallstreetbets,Nokia (NOK) to Power KUKA Automation Solutions With 5G Network,,0.86,118.0,0.0,118.0
+26,wallstreetbets,SPY price action this week,,1.0,4.0,0.0,4.0
+27,wallstreetbets,"Fraternal Association of Gambling Gentlemen and Yacht Degenerates for July 10, 2021","Inductions
+------
+
+
+----------
+User|Cast Vote|Voters
+:--|:--|:--
+**None**
+
+Ejections
+------
+
+
+----------
+User|Cast Vote|Voters
+:--|:--|:--
+**None**
+
+
+
+---
+FAQ
+------
+
+Only approved users can participate here. They can induct and eject other users which will be displayed publicly as it is happening in the above tables. Anyone on the approved users list (which you cannot see) will be ignored entirely by /u/VisualMod and most of the AutoModerator rules for all comments and submissions, so bestow this status on people wisely to accrue traders and bros to the thread.
+Five affirmative votes are required to induct or eject someone. Simply click one of the links below and put their username (no /u/) in the body of the message.
+
+[**Begin Induction**](https://www.reddit.com/message/compose/?to=VisualMod&amp;subject=induct) | [**Begin Ejection**](https://www.reddit.com/message/compose/?to=VisualMod&amp;subject=eject)",0.71,11.0,0.0,11.0
+28,wallstreetbets,🚀👨‍🚀💎🦍 $ASTS AST SpaceMobile $4M YOLO Across Three Accounts: The Wife and Kids are ALL IN! 🦍💎👨‍🚀🚀,,0.87,337.0,0.0,337.0
+29,wallstreetbets,nio loss porn... got screwed by didi fiasco,,0.89,396.0,0.0,396.0
+30,wallstreetbets,Tsla “yolo”,,0.64,3.0,0.0,3.0
+31,wallstreetbets,Stocks only go up and to the right!,,0.88,235.0,0.0,235.0
+32,wallstreetbets,"Daily Option Statistics for SPCE, AMC, GME, CLOV, DNUT, BABA, SOFI, AAPL, WISH, NEGG, and others.","Hey everyone,
+
+Here is the options statistics for the day. A pretty boring day; the biggest losers were SPCE (-7%) and AMC (-4%), while the largest gainers were DNUT (+6%) and BABA (+3%).
+
+Below are the option statistics for the day.
+
+# SPCE:
+
+[-6.62&amp;#37;](https://preview.redd.it/so7clwc8u8a71.png?width=1506&amp;format=png&amp;auto=webp&amp;s=cbc8cdb4810c53e3318b98a1ed1cb3d4d2ce99be)
+
+# AMC:
+
+[-3.65&amp;#37;](https://preview.redd.it/pme264t8u8a71.png?width=1506&amp;format=png&amp;auto=webp&amp;s=dd1987ff62c7e3daa09e575dcb7645545b7c30d1)
+
+# GME:
+
+[-0.08&amp;#37;](https://preview.redd.it/sr5qdbh9u8a71.png?width=1505&amp;format=png&amp;auto=webp&amp;s=a251b2b166523e1e8f36b2d02c33545e14df807a)
+
+# CLOV:
+
+[-0.96&amp;#37;](https://preview.redd.it/202w732au8a71.png?width=1506&amp;format=png&amp;auto=webp&amp;s=e3c880a75bf76a922a8248a4613bfe0bad64c663)
+
+# DNUT:
+
+[+5.99&amp;#37;](https://preview.redd.it/3x5r08rau8a71.png?width=1506&amp;format=png&amp;auto=webp&amp;s=4c21ecf75783fa9d46417f1f3d9f7cac7447e8c0)
+
+# BABA:
+
+[+3.05&amp;#37;](https://preview.redd.it/0b8tap7bu8a71.png?width=1505&amp;format=png&amp;auto=webp&amp;s=4c728c98b31c2ee1d3e3e520de788f956bd8dea0)
+
+# SOFI:
+
+[-1.02&amp;#37;](https://preview.redd.it/w2zw9trbu8a71.png?width=1507&amp;format=png&amp;auto=webp&amp;s=10d438b0ada92dcb1c673e29f57b9689d6aa8ea6)
+
+# AAPL:
+
+[+1.31&amp;#37;](https://preview.redd.it/y6y7snccu8a71.png?width=1493&amp;format=png&amp;auto=webp&amp;s=dada86dd70a053d3baa534897588e1dcf5dbf31a)
+
+# WISH:
+
+[+1.27&amp;#37;](https://preview.redd.it/py1o2xycu8a71.png?width=1505&amp;format=png&amp;auto=webp&amp;s=8eec3e2c1f129520d5228e785ad9ea57415b10be)
+
+# NEGG:
+
+[+1.94&amp;#37;](https://preview.redd.it/4tpyrkjdu8a71.png?width=1506&amp;format=png&amp;auto=webp&amp;s=62fd14a7a1dc414f971b844aa1e22d084cce8ae0)
+
+Requested:
+
+# PUBM:
+
+[+1.43&amp;#37;](https://preview.redd.it/m6jx4i3u09a71.png?width=1505&amp;format=png&amp;auto=webp&amp;s=be8d6a3ae3bd53a76977101507aa06dea6f2f3cf)
+
+# BB:
+
+&amp;#x200B;
+
+[+2.08&amp;#37;](https://preview.redd.it/hj5mhfpz09a71.png?width=1503&amp;format=png&amp;auto=webp&amp;s=7fa8b4e9cf86746affb7dbf4a4dcaec832016d5f)
+
+As always let me know if I forgot anything. I will be back on in an hour or so to check up on this.
+
+Until next time, best of luck in your investing!",0.85,102.0,0.0,102.0
+33,wallstreetbets,Amzn yolo expiry,,0.78,50.0,0.0,50.0
+34,wallstreetbets,I though I was screwed yesterday...(even posted loss) until market opened today,,0.96,8193.0,0.0,8193.0
+35,wallstreetbets,Britain carves out exemption for gold clearing banks from Basel III rule By Reuters,,0.67,3.0,0.0,3.0
+36,wallstreetbets,Jack Ma bent me over 🇨🇳,,0.7,40.0,0.0,40.0
+37,wallstreetbets,Am I doing this right? Can you see when I joined WSB on this graph?,,0.92,973.0,0.0,973.0
+38,wallstreetbets,Friday wrap up,,0.91,191.0,0.0,191.0
+39,wallstreetbets,FDA calls for investigation into controversial Alzheimer’s drug approval.....More DD on why $BIIB is a good short,,0.8,37.0,0.0,37.0
+40,wallstreetbets,LFG AAPL,,0.76,37.0,0.0,37.0
+41,wallstreetbets,💎🙌🏻,,0.93,38958.0,0.0,38958.0
+42,wallstreetbets,To the final frontier on Sunday...,,0.81,75.0,0.0,75.0
+43,wallstreetbets,BABA yolo: $20k OTM 7/16 calls and $50k of shares on margin,,0.74,39.0,0.0,39.0
+44,wallstreetbets,"Daily Discussion Thread for July 09, 2021","Your daily trading discussion thread. Please keep the shitposting to a minimum. 
+
+^Navigate ^WSB |^We ^recommend ^best ^daily ^DD
+:--|:--                                 
+**DD** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ADD) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADD&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADD&amp;restrict_sr=on&amp;t=week)
+**Discussion** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ADiscussion) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADiscussion&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADiscussion&amp;restrict_sr=on&amp;t=week)
+**YOLO** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3AYOLO) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AYOLO&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AYOLO&amp;restrict_sr=on&amp;t=week)
+**Gain** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3AGain) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AGain&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AGain&amp;restrict_sr=on&amp;t=week)
+**Loss** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ALoss) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ALoss&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ALoss&amp;restrict_sr=on&amp;t=week)
+
+
+[Weekly Earnings Discussion Thread](https://www.reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3A%22Earnings%20Thread%22)
+
+**Read the [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide) and make sure other people follow them.**
+
+Try [No Meme Mode](https://www.reddit.com/r/wallstreetbets/search/?q=-flair%3AMeme%20-flair%3ASatire%20-flair%3AShitpost&amp;restrict_sr=1&amp;t=day&amp;sort=hot), also accessible through the top bar.
+
+Follow [@Official_WSB](https://twitter.com/Official_WSB) on Twitter, all other accounts are impersonators.
+
+Check out our [Discord](https://discord.gg/wallstreetbets)",0.89,356.0,0.0,356.0
+45,wallstreetbets,"$AMD, If you sold me these calls this morning at $-0.90 open, suck it easy! Yolo!",,0.81,130.0,0.0,130.0
+46,wallstreetbets,SoFi Technologies vs. Upstart: Which Fintech Stock Is A More Compelling Buy? Would you buy? and if yes whitch?," 
+
+The advent of technology is changing banking, resulting in artificial intelligence's (AI) deployment in data collection, data integration, and analysis.
+
+According to an IndustryArc report, the Fintech market is expected to grow at a compounded annual growth rate (CAGR) of 8.7% between 2021 to 2026, and is anticipated to be worth $161.2 billion by 2026.
+
+Using the TipRanks [stock comparison](https://www.tipranks.com/compare-stocks/custom?ticker=SOFI&amp;ticker=UPST) tool, let us compare two retail companies, SoFi Technologies and Upstart Holdings, and see how Wall Street analysts feel about these stocks.
+
+&amp;#x200B;
+
+https://preview.redd.it/qa4gd7muc7a71.png?width=700&amp;format=png&amp;auto=webp&amp;s=34538a36b5835417e5fc7ccd8641fa9d0a188abe
+
+**SoFi Technologies (**[**NASDAQ**](https://www.tipranks.com/index/nasdaq-100)**:** [**SOFI**](https://www.tipranks.com/stocks/sofi/forecast)**)**
+
+SoFi (or Social Finance) was founded in 2011 and is a fintech, or financial technology company, that offers a suite of financial products through its platform, a one-stop-shop app. The company’s three major business segments include lending, a technology platform, and financial services.
+
+SoFi’s lending services include student loan refinancing, personal and home loans, while its technology platform, Galileo, provides services, including an authorization application programming interface (API) to financial and non-financial institutions.
+
+The company’s financial services include insurance services under SoFi Protect, a SoFi Credit Card, and Lantern Credit, a financial services marketplace.
+
+Last month, SoFi Technologies made its debut on the Nasdaq as an independent company, following its SPAC merger with blank check company Social Capital Hedosophia.
+
+In Q1, the company posted adjusted net revenues of $216 million, while the company had guided for revenues ranging between $190 million and $195 million. SoFi reported adjusted EBITDA of $4 million, and ended the quarter with 2,281 thousand members, a jump of 110% year-over-year.
+
+On June 28, SoFi’s lock-up period expired. The lock-up period is the length of time after the company goes public when early employees or shareholders in the company may not sell their shares. This time period can vary between 90 to 180 days.
+
+Following the expiry of the lock-up period, Rosenblatt Securities analyst [Sean Horgan](https://www.tipranks.com/analysts/sean-horgan) reiterated a Buy and a price target of $30 (65.9% upside) on the stock. The analyst saw “a unique buying opportunity as a result of this recent selling and ahead of a potentially significant upside catalyst (bank charter approval).”
+
+In October last year, SoFi received preliminary conditional approval from the Office of the Comptroller of the Currency (OCC) in the United States regarding its application for a national bank charter. However, this application will still need to be reviewed by the Federal Deposit Insurance Corporation and the Federal Reserve. (See [SoFi Technologies stock chart](https://www.tipranks.com/stocks/sofi/stock-charts) on TipRanks)
+
+Analyst Horgan expects the process for approval of the bank charter to conclude by the end of this year, adding an upside of more than 25% to the analyst’s EBITDA estimates.
+
+The analyst said in a note to investors, “All the catalysts we expect (in order of magnitude) are: 1) SOFI's bank charter approval/denial (expected 2021); 2) lockup period ends (June 28), employee trading restrictions expire (post-earnings, expected mid-August), senior leadership lockup expiration (Late December); 3) federal student loan forbearance period expiration (currently set for October 1, 2021); 4) rising interest rates.”
+
+However, Horgan noted that a regulation that could allow for a four-year college course without paying any tuition fees could pose “a substantial downside to SOFI's core student lending business, which we believe is a low-single-digit probability risk.”
+
+The analyst believes that students enrolled in four-year undergraduate programs make up the “largest piece of SOFI's student lending revenues and market opportunity.” In Q1, SoFi’s lending segment had student loan originations worth $1,468 million.
+
+Horgan also believes that a rise in regulatory scrutiny when it comes to payment for order flow (PFOF) regulations should not concern SoFi shareholders as “its revenue exposure from its brokerage business is insignificant (&lt;1% of 2020 revenues) in comparison to many retail brokers.” PFOF is the compensation a brokerage firm receives for directing orders to other parties to execute trades.
+
+Consensus among analysts on Wall Street is a Moderate Buy based on 2 Buys. The average [SoFi Technologies price target of $27.50](https://www.tipranks.com/stocks/sofi/forecast) implies approximately 52.1% upside potential to current levels.
+
+&amp;#x200B;
+
+https://preview.redd.it/n68vwvjyc7a71.png?width=814&amp;format=png&amp;auto=webp&amp;s=fe269fc129cc06144eebfdcea77da5c04134453c
+
+**Upstart Holdings (**[**NASDAQ**](https://www.tipranks.com/index/nasdaq-100)**:** [**UPST**](https://www.tipranks.com/stocks/upst/forecast)**)**
+
+Upstart Holdings is a cloud-based artificial intelligence (AI) lending platform that connects consumers to its network of AI-enabled bank partners for loans. The company generates revenues primarily through fees paid by banks.
+
+The company charges referral fees to banks for every loan referred through the Upstart.com website and originated by a bank partner. UPST also charges a platform fee for every loan origination, regardless of its source, and servicing fees for loans as consumers repay them.
+
+UPST helps consumers receive personal loans by connecting them to its bank and credit union partners. It uses variables like employment and education to predict a consumer’s creditworthiness.
+
+Last month, the company entered into a partnership with workflow application programming interface (API) connectivity provider NXTsoft to enable Upstart to streamline the implementation of its platform to financial institutions in the U.S.
+
+In Q1, UPST reported total revenues of $121.3 million, a jump of 90% year-over-year that surpassed the Street’s estimates of $116.1 million. The company’s adjusted earnings ballooned 340% year-over-year to $0.22 per share in Q1, topping consensus estimates of $0.15 per share.
+
+Upstart Holdings has projected total revenue to land between $150 million and $160 million in Q2. For 2021, the company increased its revenue expectations to approximately $600 million versus the prior guidance of $500 million. (See [Upstart Holdings stock chart](https://www.tipranks.com/stocks/upst/stock-charts) on TipRanks)
+
+Following the Q1 earnings, Jeffries analyst [John Hecht](https://www.tipranks.com/analysts/john-hecht) reiterated a Buy and raised the price target from $81 to $101 (16.7% downside) on the stock. Hecht remained upbeat about the stock following strong growth trends and the company’s Prodigy acquisition.
+
+On March 15, the company announced the acquisition of Prodigy Software, a provider of cloud-based automotive retail software, for $100 million.
+
+In Q1, Upstart’s bank partners originated 169,750 loans worth $1.73 billion across the company’s platform, an increase of 102% year-over-year. The conversion rate was 22% on rate requests, up 14% year-over-year.
+
+Analyst Hecht stated, “…the strong loan count and improving conversion rate highlight strong growth trends as '21 progresses, with UPST's AI lending platform continuing to perform well.”
+
+The analyst noted that the company’s Q2 revenue guidance “represents \~30% upside from our prior ests. \[estimates\] at the midpoint.”
+
+He continued on a positive note, saying, “We continue to believe Upstart's cloudbased, Artificial Intelligence (AI) lending platform results in a superior credit product with attractive economics for both consumers and lenders, a 'win-win' model for both participants. We see LT \[long term\], strong growth opportunities given a first-mover advantage and a very large TAM \[total addressable market\].”
+
+Consensus among analysts on Wall Street is a Strong Buy based on 3 Buys and 1 Hold. The average [Upstart Holdings price target of $143.25](https://www.tipranks.com/stocks/upst/forecast) implies approximately 18.2% upside potential to current levels.
+
+&amp;#x200B;
+
+https://preview.redd.it/vf2gx0d2d7a71.png?width=817&amp;format=png&amp;auto=webp&amp;s=575eaff3ff02b673c3cb6a0f63566d3235c59081
+
+ **Bottom Line**
+
+It is important to note here that while SoFi is functioning as an online bank with a variety of financial products available through its app, Upstart offers personal and auto loans through its platform. It remains to be seen whether Upstart will expand its product offerings.
+
+Upstart has stated in its company filing, “There is significant opportunity to expand from personal loans to auto loans, credit cards, mortgages, student loans, point-of-sale loans and home equity lines of credit (HELOC).”
+
+While analysts are cautiously optimistic about SoFi, they are bullish on Upstart. Based on the upside potential over the next 12 months, SoFi seems to be a better Buy.
+
+Source: [https://finance.yahoo.com/news/sofi-technologies-vs-upstart-fintech-123727710.html](https://finance.yahoo.com/news/sofi-technologies-vs-upstart-fintech-123727710.html)",0.78,121.0,0.0,121.0
+47,wallstreetbets,Bears looking at VIX right now,,0.94,1192.0,0.0,1192.0
+48,wallstreetbets,Time to go olin $ROPE,,0.72,37.0,0.0,37.0
+49,wallstreetbets,Holding FD's on a Friday,,0.92,271.0,0.0,271.0
+50,wallstreetbets,To CLOV or not to CLOV,"I am a relatively new member of reddit and its subgroups.  Have done a few posts here and there but read a lot, as much as my time allows.  I am sorry I was not around for the AMC, GME epic episodes but, regardless, I will remember them for ever.  I am not a financial adviser but college educated and have been working in the tech. field for quite a few years.  I hold a relatively small position in CLOV and a micro biotech PIRS - and I admit both of these investments are a bit underwater at this point in time.  However, I like both companies and will hold as long as necessary while averaging down.  Enough about me.  Now about CLOV:  let me make it clear, this is not an attempt to solicit help to get me over my price entry points on either CLOV or PIRS.  I can carry my own bags and am patient enough to let them both appreciate in value.  Again, I like both companies that much.  What disgusts me regarding CLOV is the constant dirty plays on a day to day basis by I perceive as HF shorting it out of control.  Yes, I understand that side of business but everything should have some reasonable limits for the integrity of the system long term.  Of course the HF and others can afford to short CLOV and are probably averaging up and shorting more sitting on huge profits.  However, some other market participants are facilitating that instead of providing stability.  One practice that I disagree with is the deliberate forced price down, at any cost.  Legit investors and fair market participants do not contribute or facilitate this.  At key moments, large blocks are traded down, assuming short, and then gradually covered in small chunks.  For example just about all market opens this week, or mid-afternoons all days and especially Fridays on option expiration dates.  Look at the volume for example Fri between 1.25pm and 1.45pm - 3 to 4 Million shares sold in large blocks with the sole purpose of forcing the price down! Why would a legit investor sell that 10+% of the daily volume in a matter of minutes, just to force the price down maybe???  There are too many oddities about the price movement in the last 10 days to not raise suspicions.  Market goes up or down, CLOV goes down, good news, CLOV goes down, new retail purchases (r/CLOV for example), CLOV goes down etc.  Even a pink sheet ticker show better price action, aka dead cat bounce.  I think CLOV is fastly approaching its bottom and that it's going to ramp up shortly, with or without squeezes.  There is plenty of DD available to read supporting my presumptions.
+
+ So, let me get to the point here:  
+
+1. WSB has 10+ Million members.  At what price point would members be willing to invest in 100 shares of CLOV?  Simple math, only 10..20% of members are buying 100 shares, it implies 10..20+ Million shares gobbled-up.  That would counteract the short volume shorting 3 to 4 million shares in large chunks a couple of time a day and covering in bits and pieces.  
+2. I cannot even imagine the effect of more apes joining in and/or purchasing more than 100 shares...can you?
+3. Would you agree that the day CLOV closes in green is the day shorts are being seriously impacted by the high borrow fees and the risks holding shorted shares?  Right now their game is winning, with CLOV in the red every single day.  Isn't it time for a turnaround?
+
+Ultimately, I am looking at this at a battle between good and bad, where the bad far exceeded the limit and are not playing fairly **AND** the fundamental value for these companies which present an excellent opportunity.
+
+Do your own DD and please do address the my 3 questions above, as I do not consider myself a financial advisor or expert.
+
+Thank you,
+
+Resident Reddit member ape",1.0,1.0,0.0,1.0
+51,wallstreetbets,January 2022 could be fun,,0.79,46.0,0.0,46.0
+52,wallstreetbets,"Daily Popular Tickers Thread for July 09, 2021 - SPCE | AMC | GME","
+Your daily hype thread. Please keep the shitposting to a maximum.
+
+^Navigate ^WSB |^We ^recommend ^best ^daily ^DD
+:--|:--                                 
+**DD** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ADD) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADD&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADD&amp;restrict_sr=on&amp;t=week)
+**Discussion** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ADiscussion) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADiscussion&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADiscussion&amp;restrict_sr=on&amp;t=week)
+**YOLO** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3AYOLO) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AYOLO&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AYOLO&amp;restrict_sr=on&amp;t=week)
+**Gain** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3AGain) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AGain&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AGain&amp;restrict_sr=on&amp;t=week)
+**Loss** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ALoss) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ALoss&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ALoss&amp;restrict_sr=on&amp;t=week)",0.84,215.0,0.0,215.0
+53,wallstreetbets,Is There Still A Bullish Case For Spotify? Time Is Running Out.,"Let me start by saying that I love Spotify and have been using it for over seven years. Everything about the platform is great and like many others, I have no plans of switching. The algorithm is unlike anything I've experienced on a music streaming app and has helped me discover countless new artists and genres. I’m sure you have felt a similar experience. Unfortunately, none of these amazing features should allow an investor to turn a blind eye to an obscene valuation. As history has shown, Wall Street will eventually make you pay the price. People quickly forget that Pandora Media was one of the world’s leading internet radio providers before collapsing due to more competition, and eventually was bought by Sirius XM.
+
+Growing Sales Doesn't Justify its High Valuation. Spotify is currently valued as a high-margin, wide-moat business. Investors are willing to pay a premium now for profits that aren't expected for at least four to five years. Bulls love to only focus on the impressive revenue and MAU growth, huge podcast signings, and overall great product. The question I always follow up and ask is, “How much more room is there to grow?”. Spotify has already absorbed close to 35% of the music streaming market as of 2019 and with a number of new platforms emerging each year, it’s only going to get more competitive. Some reports are claiming that Spotify’s share has declined closer to 30% as of 2020 but these are difficult to verify.
+
+If Spotify can’t generate a profit now, when will they? Their explosive growth and exclusive content signings are costly and while it looks good in the near term, it doesn’t imply a sustainable business model. On top of that, Spotify’s high EV/EBITDA (can’t use profit margins since negative) imply it’s trading well above fair value vs. similar names such as Netflix, Sirius XM, or Apple.
+
+Some may argue that it is unfair comparing a low/negative EBITDA with companies that have stronger multiples, but to me, that is the point I'm trying to make. Spotify doesn't deserve this valuation given its low-margin business. If management can prove to investors that it can scale AND improve operating margins, then it will deserve the valuations of Netflix and Apple who already have 18-25% net income margins. 
+
+Royalty Fees Remain a Major Concern. One of the biggest things I feel Wall Street fails to effectively understand with Spotify is its painful royalty fee structure. 73-80% of the company's revenue is subject to this in a given year, and it isn't going anywhere. There are no economies of scale or optimization strategies that will fix this; it's a constant payment to recording owners such as Universal Music or Sony that eat up the vast majority of Spotify's revenue. Figure 3 shows Spotify’s unchanged gross margins for the last three years despite impressive top-line growth.
+
+It's even more surprising when you find out that Spotify is one of the worst paying streaming services out there. There isn’t much more room for management to decrease payouts or else they risk losing more market share.
+
+Why is that important you might ask? Well, one of the hottest topics in music streaming right now (has been for years) revolves around artists, who are demanding to be paid more and rightfully so. This does not bode well for Spotify’s low payout coupled with more streamers entering the market who will try to gain exclusive access from artists by paying them more. If Spotify decides to increase payouts to retain artists, it's only going to hurt their bottom line. 
+
+Competition From Apple Music Will continue to be an issue for Spotify. Earlier this year, Apple unveiled its lossless streaming and spatial audio which is essentially a new enhanced way to listen to your favorite artists. It's a relatively new feature that launched in June and I believe as more people become aware of its better high-resolution stream offering, there is potential for them to take more market share from Spotify. I’m not claiming to be a music expert, but many blogs/articles are out there touting Apple’s achievement and we have yet to hear from Spotify on their next move. They may match what Apple has released, but until then, it has become a new near-term risk for Spotify. 
+
+Don't Sleep on Spotify's Debt. Although Spotify currently generates a healthy operating cash flow, it's important to recognize the $1.8 billion in debt on its balance sheet. In early 2021, Spotify raised $1.3 billion in unsecured notes. For what exactly? Many are speculating on the uses. An acquisition? General corporate purposes? Paying out more to artists? That remains to be said, but regardless this adds a new risk factor to Spotify if it cannot execute on a plan to pay off these notes due in 2026. The company does have a history of getting out of a high debt situation. Prior to going public in 2018, Spotify had raised approximately $1 billion of convertible debt at a roughly $10 billion valuation with private investors before selling it off to Tencent for the direct listing. Kind of weird when you’re competitor owns a piece of your company after going public.
+
+Spotify is a tricky business to evaluate. There aren't any fair comparables (I've seen research analysts use Netflix and Amazon for multiples) to accurately value it. So, what is a fair value for a company that can generate massive revenues, has a superior product, but can't make a profit? I'm a firm believer that investors eventually lose patience with a company that doesn't improve bottom-line margins. Does it take five years? Ten? After going public in mid-2018, Spotify traded range-bound between $105-200 per share and appeared to be fairly valued until April 2020 when it began to take off. In my opinion, this more than 100% increase to $350 per share was not justified given the company's inability to improve profit margins while management gave no indication that things were drastically changing. Some will argue that higher sales and improving MAU's played a role but that was already factored into the share price prior to the run-up. Even though Spotify's share price is down 28% from its February high, there is still room to fall. Don't catch a falling knife as this name heads back to the low-$100's where it belongs.",0.7,16.0,0.0,16.0
+54,wallstreetbets,"New Ape here. Came here After my wife's boyfriend got richer than me. Either kill me slowly or give me anxiety. Warren Buffet, I'm coming for you.","Hello Apes. New trader here, I am 20, starting with 5k on etoro. Any advice or suggestions to look out for so that I dont go tits up? I am really putting up almost everything I have, which makes this the biggest YOLO of my life. 
+Looking for advice from experienced traders (guess i found the right place for it) and traps to avoid. 
+And I'm not really looking for like 100+% per day. But atleast something over 20% per week. 
+Really need to earn the dough to start chipping off my student debt and get a WSB sticker on my car. 
+Help an Ape out and I'll dedicate my first ""Congrats and fu*k you"" to everyone on this thread.",0.47,0.0,0.0,0.0
+55,wallstreetbets,TX or: CLF isn't the only show in town,,0.65,20.0,0.0,20.0
+56,wallstreetbets,Puts on AAPL? Biden Signs Executive Order On Right To Repair,,0.64,17.0,0.0,17.0
+57,wallstreetbets,Retired Market Specialist,,0.88,163.0,0.0,163.0
+58,wallstreetbets,$WISH is Worth $40 Deep Value and Huge Potential 🚀💎👐,"Discounted cash flow (DCF) is a valuation method used to estimate the value of an investment based on its expected future cash flows. DCF analysis attempts to figure out the value of an investment today, based on projections of how much money it will generate in the future.
+
+Below are the data sources, inputs and calculation used to determine the intrinsic value for ContextLogic.
+
+Valuation Model	：2 Stage Free Cash Flow to Equity
+
+Levered Free Cash Flow：Average of 11 Analyst Estimates (S&amp;P Global)
+
+Discount Rate (Cost of Equity)	6.9%
+
+Perpetual Growth Rate	5-Year Average of US Long-Term Govt Bond Rate	2.0%
+
+An important part of a discounted cash flow is the discount rate, below we explain how it has been.
+
+
+Calculation of Discount Rate/ Cost of Equity for NasdaqGS:WISH
+ 
+Risk-Free Rate  (5-Year Average of US Long-Term Govt Bond Rate)	2.0%
+
+Equity Risk Premium  (S&amp;P Global)	4.7%
+
+Online Retail Unlevered Beta	(Simply Wall St/ S&amp;P Global)	1.05
+
+Re-levered Beta	= 0.33 + [(0.66 * Unlevered beta) * (1 + (1 - tax rate) (Debt/Market Equity))]= 0.33 + [(0.66 * 1.049) * (1 + (1 - 21.0%) (0.70%))]	1.037
+
+Levered Beta	Levered Beta limited to 0.8 to 2.0 (practical range for a stable firm)	  1.037
+
+Discount Rate/ Cost of Equity	= Cost of Equity = Risk Free Rate + (Levered Beta * Equity Risk Premium)
+= 1.99% + (1.037 * 4.72%)
+
+
+Discounted Cash Flow Calculation for NasdaqGS:WISH using 2 Stage Free Cash Flow to Equity
+
+The calculations below outline how an intrinsic value for ContextLogic is arrived at by discounting future cash flows to their present value using the 2 stage method. We use analyst's estimates of cash flows going forward 10 years for the 1st stage, the 2nd stage assumes the company grows at a stable rate into perpetuity.
+
+Levered FCF (USD, Millions)	Source	Present Value
+Discounted (@ 6.88%)
+2022	65.1	Analyst x5	60.91
+2023	323.73	Analyst x4	283.37
+2024	562.97	Analyst x3	461.04
+2025	820.83	Analyst x3	628.93
+2026	1,022.86	Est @ 24.61%	733.25
+2027	1,205.2	Est @ 17.83%	808.31
+2028	1,362.78	Est @ 13.08%	855.13
+2029	1,495.65	Est @ 9.75%	878.05
+2030	1,606.65	Est @ 7.42%	882.47
+2031	1,699.71	Est @ 5.79%	873.45
+
+Present value of next 10 years cash flows $6,464
+
+Terminal Value	FCF2031 × (1 + g) ÷ (Discount Rate – g)
+= $1,699.708 x (1 + 1.99%) ÷ (6.88% - 1.99% )	$35,419.89
+
+Present Value of Terminal Value	= Terminal Value ÷ (1 + r)10
+$35,420 ÷ (1 + 6.88%)10	$18,201.65
+NasdaqGS:WISH Total Equity Value
+
+Total Equity Value	= Present value of next 10 years cash flows + Terminal Value
+= $6,464 + $18,202	$24,665.65
+
+Equity Value per Share
+(USD)	= Total value / Shares Outstanding
+= $24,666 / 620  =	$39.8 
+
+Value per share (USD)	From above.	$39.8
+Discount to share price of $11
+= ($39.8 - $11) / $39.8	  
+Current discount  72.4%
+
+[wish](https://images.simplywall.st/asset/chart/127912549-dcf-1-dark/1625809624659)",0.69,411.0,0.0,411.0
+59,wallstreetbets,Death by IV crush,,0.76,57.0,0.0,57.0
+60,wallstreetbets,Apple Timmy tendies 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀,,0.66,31.0,0.0,31.0
+61,wallstreetbets,Will the history repeat itself? $CLOV with Morning Star Doji again?,"Will the history repeat itself? We need a green bar tonight to confirm this reversal trend with ""Doji"". If the reversal is confirmed tonight, we may see $CLOV to $20 next week. So I would say Tonight is critical. If tonight closed lower than the doji. Then it might go lower. Anyone see the similar things?
+
+Clover Health Investment Corp 
+
+On 22 June 2021, it was also included in 2 indices, which are:-
+
+*S&amp;P Health Care Services Select Industry Index*
+
+*S&amp;P Global BMI Index*
+
+$CLOV $daychart
+
+&amp;#x200B;
+
+https://preview.redd.it/gk8ihopwq4a71.png?width=1241&amp;format=png&amp;auto=webp&amp;s=1893e55bbf88756c72b6e3cb42a4913951f00974
+
+https://preview.redd.it/e5tm4ynsr4a71.png?width=461&amp;format=png&amp;auto=webp&amp;s=458d3503376a75f37076a61ae877c293f663d783",0.79,265.0,0.0,265.0
+62,wallstreetbets,"Tesla Energy, Brookfield and Dacra Announce the Development of Large-Scale Sustainable Neighborhood in Austin, Texas",,0.65,11.0,0.0,11.0
+63,wallstreetbets,Bulls waking up,,0.92,16338.0,0.0,16338.0
+64,wallstreetbets,"BABA TENDIES PLEASE. Jack ma died at 198, it can’t go any lower than that. 🇨🇳 🚀",,0.7,37.0,0.0,37.0
+65,wallstreetbets,"Fraternal Association of Gambling Gentlemen and Yacht Degenerates for July 09, 2021","Inductions
+------
+
+
+----------
+User|Cast Vote|Voters
+:--|:--|:--
+**None**
+
+Ejections
+------
+
+
+----------
+User|Cast Vote|Voters
+:--|:--|:--
+**None**
+
+
+
+---
+FAQ
+------
+
+Only approved users can participate here. They can induct and eject other users which will be displayed publicly as it is happening in the above tables. Anyone on the approved users list (which you cannot see) will be ignored entirely by /u/VisualMod and most of the AutoModerator rules for all comments and submissions, so bestow this status on people wisely to accrue traders and bros to the thread.
+Five affirmative votes are required to induct or eject someone. Simply click one of the links below and put their username (no /u/) in the body of the message.
+
+[**Begin Induction**](https://www.reddit.com/message/compose/?to=VisualMod&amp;subject=induct) | [**Begin Ejection**](https://www.reddit.com/message/compose/?to=VisualMod&amp;subject=eject)",0.75,112.0,0.0,112.0
+66,wallstreetbets,Mod life,,0.89,350.0,0.0,350.0
+67,wallstreetbets,ETFs with Investments in SP500 Winners of 7/9/2021,"**ETFs with Investments in Today's SP500 Winners**  
+Three ETF's per winner (when available)
+
+**ETF Ticker | % invested in Winner**  
+
+
+**Industrials**: ETFs investing in Kansas City Southern  
+IYT 11.94%    
+PAVE 3.05%   
+PKW 2.89%    
+
+
+**Health Care**: ETFs investing in Viatris Inc  
+XPH 4.10%    
+IHE 4.04%    
+FCTR 1.34%   
+
+
+**Information Technology**: ETFs investing in Western Digital Corp  
+VPN 2.45%    
+SCHM 0.48%   
+   
+
+
+**Communication Services**: ETFs investing in Interpublic Group of Companies Inc  
+WBIY 4.52%    
+EWCO 4.33%  
+SPHD 2.21%   
+
+
+**Consumer Discretionary**: ETFs investing in PVH Corp  
+DVLU 2.59%   
+JHSC 0.46%    
+   
+
+
+**Utilities**: ETFs investing in NRG Energy Inc  
+RYU 4.02%    
+PUI 3.09%    
+VRAI 1.23%   
+
+
+**Financials**: ETFs investing in Discover Financial Services  
+TPAY 4.14%   
+FOVL 3.53%  
+IPAY 3.01%   
+
+
+**Materials**: ETFs investing in Freeport-McMoRan Inc  
+IYM 6.47%    
+XLB 5.60%    
+NANR 5.41%   
+
+
+**Real Estate**: ETFs investing in Simon Property Group Inc  
+ICF 4.90%    
+XLRE 4.32%   
+RWR 4.28%   
+
+
+**Consumer Staples**: ETFs investing in SYSCO Corporation  
+PBJ 4.72%    
+PEJ 4.68%    
+PSL 3.43%   
+
+
+**Energy**: ETFs investing in Nov Inc  
+PXJ 6.23%    
+IEZ 4.23%    
+OIH 4.23%",0.58,4.0,0.0,4.0
+68,wallstreetbets,YOLO PSFE,,0.72,42.0,0.0,42.0
+69,wallstreetbets,AMC July 9 Soft Technical Analysis,"Hello all,
+
+Time for a AMC TA today! We've got 2 important price levels to keep in mind.
+
+See [https://www.reddit.com/r/wallstreetbets/comments/ofh1ha/sofi\_soft\_technical\_analysis/](https://www.reddit.com/r/wallstreetbets/comments/ofh1ha/sofi_soft_technical_analysis/) for my SOFI technical TA.
+
+I am applying my strategy as a day trader to see what our long term resistance and support levels are. I'm simply a day trader of three years that has consistently used standard deviations, RVI, and volume on a 6month and 1year time frame to determine my buy/sell areas on stocks, no matter whether I am swing trading or trading intraday. My current trading accuracy is 81%.
+
+\-Easy Breakdown of Statistical Standard deviations - 68% of a stock's price range over a given time frame is within 1 statistical standard deviation (2 blue lines) of it's average/regression trend (middle line), 96% within two deviations (first upper and lower purple lines), and 99.7% within 3 deviations (upper and lower purple lines). Most importantly, these deviations also function as true support and resistance levels, with deviations, once crossed, becoming either the new resistance or new support level.
+
+Here is the AMC One Year Chart -  [https://imgur.com/sn57BvU](https://imgur.com/sn57BvU)
+
+Here is the AMC 6 Month Chart -  [https://imgur.com/LD9uZNn](https://imgur.com/LD9uZNn)
+
+Here is today's Chart with the One year and 6 month Red Deviation support/resistance lines drawn in -  [https://imgur.com/dCEhJGD](https://imgur.com/dCEhJGD)
+
+Today's price action and targets are pretty simple. For AMC to keep up its momentum, we need to stay above the +1deviation support level on the One Year Chart of $43.65 (upper blue line) which is also its dip buy price area. If we can hold support there, AMC needs to at least trade sideways and break up to our next resistance level of +1 Deviations on the 6 Month Chart of $53.91. That would be an extremely impressive move today as it would represent almost a full deviation swing over the last two days.
+
+If bulls are somehow able to push us through our $53.91 Deviation Resistance, our next price target would be the One Year +2Deviation Resistance level of 58.78.
+
+For the downside, should AMC break $43.65 area, we could see prices bounce off the 6 Month Regression Trend of $36.67.
+
+I have included all these price levels on today's chart. Good luck everyone, make some money today!
+
+Here's a quick bonus CARV example of Deviation Support. When a stock breaks aggressively off-trend sometimes we see price action above +4 deviations (Very rare). +4 Deviations on CARV One year Chart is 19.47 -  [https://imgur.com/9s8DyP4](https://imgur.com/9s8DyP4)
+
+Now where did we bottom out pre-market this morning?  -  [https://imgur.com/1S75rWJ](https://imgur.com/1S75rWJ)",0.7,52.0,0.0,52.0
+70,wallstreetbets,SPCE GANG Checking-in 💎 ✋🚀 What are you guys in for?,,0.81,191.0,0.0,191.0
+71,wallstreetbets,$UTZ YOLO: Buy stock &gt; eat cheese balls &gt; ??? &gt; 🚀,,0.69,25.0,0.0,25.0
+72,wallstreetbets,LAC YOLO,,0.64,15.0,0.0,15.0
+73,wallstreetbets,Quick DD on rubber shortage,"Rubber shortages lead to automobile tire shortages, which leads to new tires rapidly increasing in price. This leads to people deferring the purchase of new tires, leading to more bald tires on the road. This leads to more car accidents and insurance claim payouts.
+
+Ergo, buy puts on the auto insurers. But don't really 'cause this ain't financial advice, *u kapiche?*.
+
+*Inflation advice: Keep your tires properly inflated, and buy your shit before the price goes up.*",0.57,6.0,0.0,6.0
+74,wallstreetbets,$SCHN - Scrap Lives Matter,"Listen up you little Schnitz as I steelsplain to you why SCHN is going to crush it short term, mid-term, and long term. Ask yourself: Are you in solidarity with SCHN as a scrap ally, or are 👏 you 👏 a 👏 fascist 👏 pig?
+
+## tldr, ape style
+
+Old steel from car and machine has name ""scrap"" and use in make new steel cheaply and earth friend. Scrap very valuable when steel price go up.
+
+China produce, consume, and export most world steel by big number. But China want less pollution and emission! Steel make many pollution and emission! To fix, China make less steel, export less steel, and use more scrap. **Now many less steel in world.**
+
+World got sick and no make steel long time but now world feel better and need steel to build many thing like inferstucture and car and machine. But China not sending too many steel! **Steel price go up up up and away!** Scrap price go up too!!
+
+But why matter SCHN??? USA long time make steel, many of that steel old now. So USA have big number high quality scrap. SCHN make money by collect and buy scrap all over USA then do export it all across whole wide world. **SCHN making moneys!!**
+
+In future suit people tell steelmaker to use scrap for good earth weathers. Also China use new machines that use scrap to make steel. Demand for scrap go up! Not infinity scrap exist! **SCHN go up!**  🚀 🌚 🌝 🌚 🌝 🚀
+
+China maybe very soon say ""we no more export steel"" and that make steel price go up more! Maybe even somebody buy SCHN because steel companies are come together now and they know control scrap be important for future!
+
+Many thing to make SCHN go into sky and space! 🚀 🚀
+
+&amp;#x200B;
+
+[Schnitzer is sex positive, and about to restock green dildos](https://preview.redd.it/svg0od1bk1a71.jpg?width=932&amp;format=pjpg&amp;auto=webp&amp;s=9dc235ff9eae1f9bbcb17518bdcd3777eae8f3a1)
+
+\---
+
+# I. Short Term: An Update
+
+This is a brief follow-up to my previous post:  [$SCHN: The Scrap Attack. (Part I: Balls of Steel)](https://www.reddit.com/r/wallstreetbets/comments/of2qwj/schn_the_scrap_attack_part_i_balls_of_steel/).  You developmentally disadvantaged people of mental disability basically ignored it, but that's ok. I'm assuming you just went to go read a book and educate yourselves.
+
+Anyway, the set-up is the same:
+
+* SCHN dips post earnings due to discrapmination, and the SCHN/HRC spread widens.
+* Steel stocks rise up into earnings since they're printing like crazy.
+* HRC ramps up mid-month as usual
+* SCHN takes the above as consent to express itself via candlestick boners
+* Finally: cute little post-earnings-low-IV SCHN jumps up to 52w highs in a month or two
+
+## Positions
+
+Here's what happened yesterday, Jun 7:
+
+&amp;#x200B;
+
+[As of close Jun 7. Party's just getting started.](https://preview.redd.it/ryzbn23dk1a71.png?width=886&amp;format=png&amp;auto=webp&amp;s=2a6754652617bb06a94073f956a20e8a5d4f2208)
+
+Here's today (Jun 8) @ 2pm:
+
+&amp;#x200B;
+
+[As of Jun 8 @ 2:00 pm](https://preview.redd.it/27rv3txdk1a71.png?width=889&amp;format=png&amp;auto=webp&amp;s=c85368ee2baa4981d737a831572dce16024a6379)
+
+The IV remains low, with no bump up from [Tuesday's post](https://www.reddit.com/r/wallstreetbets/comments/of2qwj/schn_the_scrap_attack_part_i_balls_of_steel/), because, congratulations, you guys didn't YOLO. Yes, IV is so low that a +2.59% day moves Aug 20 options up 30% and non-weekly FDs up 40% and 84%.
+
+**Below is the updated chart:**
+
+&amp;#x200B;
+
+[Still plenty more to climb.](https://preview.redd.it/gps46kpek1a71.png?width=1697&amp;format=png&amp;auto=webp&amp;s=69fa286b2c994ce5620c45d4f38e9e51f2c53eaa)
+
+Still looks good to me. I still thinking we hit $55 by July and $60 by August, which would be multi-baggers.
+
+Lastly, steelmakers earnings are coming up. If you're a believer in STEELGBTQ (steel goes big this quarter), then now's not a bad time to load up. Steelmakers will for sure absolutely demolish earnings this quarter, but it's debatable how the market will react. My take is they cannot ignore the amounts of cash coming in, and a flight to value has to start some time.
+
+\---
+
+# IIa. Bananas
+
+Imagine it's 1990. Nirvana is rocking the charts, and you grow and sell bananas. Business is good and you're able to sustainably expand your business slowly and surely. You pay your workers well and you're not too mean to the environment.
+
+However, a new banana grower hits the scene across the world. They grow bananas with less regard for the environment and their workers. This makes their bananas cheaper to make. They ship the bananas all across the world for cheap, and rake in money. In the span of 30 years, they go from growing less bananas than you to growing almost 15x the bananas as you, and more than half of the whole world.
+
+As the price of bananas plummet, banana growers across the world suffer. They can't afford to expand, and they don't. They barely scrape a living by and the only thing that keeps them alive is their country slapping taxes on bananas imported from the evil banana empire across the world.
+
+The amount of bananas the world wants has grown, but the the only people who have increased their banana farms is the evil empire. For better or worse, the world has practically grown to rely on those cheap bananas coming in.
+
+This continues for years. Until, rather quickly, those cheap bananas stop flooding in. Yet, the appetite for bananas remains the same. What happens now? **The price of bananas shoots up!**
+
+**In fact, it's even more extreme than this: not only has the supply of bananas vanished, and demand stayed the same -- no, the demand for bananas has skyrocketed!**
+
+You see, just a year ago, everybody got sick and nobody was making bananas for awhile. Sure, less bananas were being eaten, but stockpiles of bananas still fell. Then the world got better, and people's appetites for bananas exploded. All that time with no bananas... now they want to feast on bananas! They've even decided to build bridges, buildings, cars, and appliances out of bananas!
+
+Whoa, so it's pretty awesome to make and sell bananas right now. Maybe it's time to expand your banana farms? Well, you see, that takes a lot of time, and a lot of money. It can't happen overnight. Furthermore, the last time you did this you got fucked by the evil banana empire.. so maybe this time you'll be more careful.
+
+That's where we are at right now. Huge demand for steel that will last for a long time, and supply that's not coming back for a long time.
+
+\---
+
+# IIb. Steel: China, and the rest of the world.
+
+This is the wrinkle version of the above section. Skip if you want.
+
+Basically the dynamics of global steel are changing, and changing rapidly. On top of that, we are seeing immense economic growth. On top of that, we are coming out of COVID (which saw lower levels of production, and caused demand to pent up). **There is a lot of intersectionality going on, but it's the perfect storm for steel.**
+
+## Before: China sets the price of steel.
+
+China enjoys steel privileges, and they oppress the rest of the world's steelmakers. Look at just how much steel they manufacture:
+
+&amp;#x200B;
+
+[China produces a lot of steel. A lot.](https://preview.redd.it/0y4yzy2hk1a71.jpg?width=1200&amp;format=pjpg&amp;auto=webp&amp;s=16511dae352ce8c711f7373cc9d6ec9c159d46c7)
+
+Yeah, it's that crazy. China produces more than 9x the amount of steel of the #2 steel producer (India), and 6x all of Europe combined.
+
+They also consume a fuck ton of steel. But, in the end, they're left with plenty of steel to export, which they've happily been doing. So much so, that for years they've driven the price of steel to the ground and nearly bankrupt the entire industry here in the US. **They export about 15-20% of all the steel in the world that is exported.**
+
+&amp;#x200B;
+
+[China exports a lot of cheap, dirty steel.](https://preview.redd.it/xy1cdyxhk1a71.png?width=745&amp;format=png&amp;auto=webp&amp;s=829226b71f6879cbea70d3feb5168014076c0603)
+
+While they may not export much directly to the US, the effect is that the world is flooded with cheap Chinese steel, and prices all over the world drop as a result.
+
+## Now: China doesn't want to make so much steel.
+
+Part of the reason Chinese steel was so cheap to make was that by the rest of the world's standards, they cut corners. The manner in which they produce steel produces a fuck ton of CO2 emissions as well as PM2.5, and I haven't looked into it but I'm sure there are better jobs to have than working in a Chinese steel mill.
+
+If you don't know what PM2.5 is, it's particulate matter (dust, grains, etc) of size 2.5 microns or less. For reference, your hair is about 50-70 microns thick. **PM2.5s are habitual microaggressors and systemically oppress your lungs.**
+
+Given the amount of steel China produces, the pollution is astronomical. Akin to 40 packs a day in some regions:
+
+&amp;#x200B;
+
+[PM2.5: Microaggressors everywhere](https://preview.redd.it/nn0zb0sik1a71.jpg?width=580&amp;format=pjpg&amp;auto=webp&amp;s=e8a87f329c2a4aee1cb92e0b7ec8e42fb1c59c75)
+
+If you want to blame it on non-steel, then don't. You are part of the problem, not the solution. It is steel that is to blame. Read [this article](https://www.reuters.com/article/us-china-tangshan-steel/china-environment-minister-urges-crackdown-on-steel-mills-illegal-production-idUSKBN2B407Q)) and listen to their supreme-minister-of-whatever:
+
+&gt;China has pledged to cut its crude steel output in 2021 from a record 1.06 billion tonnes it churned out last year to reduce carbon emissions. The steel sector accounts for 15% of China’s total emissions, topping all other manufacturing categories.  
+&gt;  
+&gt;“Steel companies are the main body responsible for air pollution...(they) should not just focus on performance and leave pollution to local people,” said Huang (Minister of Ecology and Environment)
+
+Yeah, steel causes **15% of China's emissions** and probably a *much* higher percent of their poor air quality. This is because not only do they produce a fuck ton of steel, but also their efficiency at producing it sucks:
+
+&amp;#x200B;
+
+[China produces 2.5x the amount of CO2 per ton of steel.](https://preview.redd.it/og3g8drjk1a71.png?width=850&amp;format=png&amp;auto=webp&amp;s=5a5d896524327eb40b0fba3877cd3599fdd15e17)
+
+It's to the point where it's costing China human resources and money from people dying sooner and having health problems at a macro scale. It's also causing them geopolitical headache, as all eyes are on them to literally clean up their act.
+
+**Thus, China is working to make their environment a safe space:**
+
+1. Use the steel for yourself (you need it all for that 6% growth)
+2. Stop exporting, so you can cut down production
+3. Switch to cleaner ways of making steel
+
+## China's walking the walk
+
+It's not just talk, China is actually doing this.
+
+* First, a decree of production cutbacks. Violators are probably sent to reeducation camps or some shit.
+* Next, removing export rebate in May (#StopAsianRebate). This makes it less profitable to export.
+* Next, fucking with domestic commodities prices, so that steel could remain cheap just for a little bit longer. In May, they increased margin requirements for commodities traders, causing them liquidate their positions and tanking steel prices.... temporarily.
+* Meanwhile, they're building out EAFs.
+
+**They want to make less steel, they want to keep it for themselves, they want it cleaner.**
+
+\---
+
+# III. EAFs and Scrapfirmative Action
+
+By now you see why steel is expensive, and that there's a lot of incentive for China to produce it sustainably. So let's explore how that is done. Hint: scrap metal.
+
+## How steel is made
+
+Steel has two primary pathways to its production:
+
+&amp;#x200B;
+
+[BOFs on the left, EAFs on the right](https://preview.redd.it/jt0bvemlk1a71.jpg?width=593&amp;format=pjpg&amp;auto=webp&amp;s=6efb8ce2b59e770084fae3f865a27302661beda3)
+
+Notice that both BOFs (basic oxygen furnaces) and EAFs (electrical arc furnaces) can take scrap as input. However, BOFs produce a lot more CO2.
+
+&amp;#x200B;
+
+[EAFs - the wave of the future.](https://preview.redd.it/83tqwvbmk1a71.png?width=999&amp;format=png&amp;auto=webp&amp;s=f644892f2875ba0cdf2436cebd4d78fbefc67db1)
+
+**EAFs are the future of steelmaking.** And EAFs love scrap.
+
+## Cultural Appropriation
+
+It's not just conjecture that China is moving towards EAFs, [it's a fact](https://www.spglobal.com/platts/en/market-insights/latest-news/coal/032521-chinas-eaf-capacity-growth-to-slow-down-after-reaching-196-mil-mtyear-in-2021):
+
+&gt;China's electric arc furnace, or EAF, steelmaking capacity will increase by 14.3 million mt/year in 2021 to about 196 million mt/year, accounting for 15% of China's total crude steel capacity, according to S&amp;P Global Platts Analytics. The net increase of China's EAF steelmaking capacity will be just 6.1 million mt/year in total over 2022-2023, according to Platts.
+
+That's another 14.3 million mt of added EAF capacity this year, and another 6.1 million mt in 2022. **For reference, 20.4 million mt is about 30% of the US's** ***entire*** **steelmaking capacity -- this is what China is adding in a span** ***of just two years*****.**
+
+**Curious why they aren't building more, even though they could? It's because they know scrap will become far more expensive in the near future.**
+
+&gt;However, the growth of EAF capacity will slow down in 2022-2023, as **tight scrap supply** and expensive electricity will continue to undermine EAF steel's profitability.
+
+In other words, the amount of scrap available is the bottleneck. Thankfully, here in the US we have a shit ton of scrap, and SCHN knows how to get it and how to sell it.
+
+\---
+
+# IV. Scrapping over Scrap
+
+&amp;#x200B;
+
+[Me, during the Floyd protests.](https://preview.redd.it/woh14ccnk1a71.jpg?width=3000&amp;format=pjpg&amp;auto=webp&amp;s=98b1e184c4d07462eb45f6055f8989b2ca318bd8)
+
+So:
+
+1. China is cutting back on exporting. 15-20% of the world's exported steel is diminishing.
+2. Global steel demand is surging back with a vengeance.
+3. China (and the world) are moving towards EAFs
+4. EAFs + Scrap are the best way to make steel.
+
+## The future fight for scrap
+
+This whole thing about scrap is not some secret that I've discovered. It's been echoed by CEOs in the steel biz for some time now.
+
+Lourenco Goncalves, AKA ""steelmaker of the year 2021"", the guy who told GS interns to kill themselves and loves it when shorts suffer, the guy who basically laid out the entire banana story I said earlier [*in fucking 2016*](https://www.youtube.com/watch?v=FeZIohZB4u4), the guy that knows *everything* about steel -- well he said this just a week ago:
+
+&gt;**Prime scrap is the new precious metal.**
+
+[Full video is here.](https://www.youtube.com/watch?v=uY9uC79gUug) Very good watch, but trigger warning: it will cause you to get a boner with or without your consent.
+
+Basically, the world of steelmaking is going to continue to shift towards EAFs, and government policies will shift towards cleaner steel. It doesn't get any cleaner than scrap, so everybody is going to fight over it, particularly China and the US (which has strict emission regulations).
+
+## SCHN's take
+
+Meanwhile, SCHN just reported earnings last week. [The babe in charge, Tamara Lundgren](https://www.google.com/search?q=Tamara+Lundgren+bikini&amp;tbm=isch) said this in the [earnings conference call](https://www.schnitzersteel.com/documents/2021-q3-earnings-conf-call-transcript.pdf):
+
+&gt;Strong global demand for recycled ferrous continues to be driven by both cyclical and structural factors, including continuing economic recovery, benefits of government stimulus, tight supply, growth in EAF and the increased use of scrap in steelmaking.
+
+Also:
+
+&gt;The expected decrease in Chinese steel exports following the removal of their steel export rebate tax paired with higher Chinese steel demand is expected to increase overall ferrous scrap demand in Asia.
+
+There are a wealth of other quotes in there. [Slides can be found here.](https://www.schnitzersteel.com/documents/2021-q3-earnings-conf-call-presentation.pdf)
+
+Of note, the bump up in scrap demand from Asia is obvious:
+
+&amp;#x200B;
+
+[SCHN export destinations. Notice the Asia wedge getting bigger?](https://preview.redd.it/zahlm9mok1a71.png?width=461&amp;format=png&amp;auto=webp&amp;s=9d9d7f6c25bd158c6c9318278241ba3fdabbabd9)
+
+**So there you have it. Scrap is the future. It's time to become a proponent of scrapstainability, scrapversity, and scrapclusion.**
+
+\---
+
+# V. Catalysts
+
+## Short Term
+
+* As described in [my previous Schnitzer DD](https://www.reddit.com/r/wallstreetbets/comments/of2qwj/schn_the_scrap_attack_part_i_balls_of_steel/), SCHN has shown itself to rise up after earnings, aided by steelmakers getting bid up into earnings and steel futures doing their mid-month rally.
+* SCHN also seems to be leading the steel pack lately. Since earnings, it goes up more than the rest, it goes down less than the rest. The only exception is STLD, which got a boost from announcing $1b in buybacks. Yeah, steel is rolling in cash right now.
+* A flight to value could happen at any time, but who the fuck knows anymore.
+* Steel earnings coming up. 🌈 STEELGBTQ 🌈 (steel goes big this quarter).
+
+## Long Term
+
+Despite only making up 27.7% of steel production, Electric Arc Furnaces (EAFs) are going to be responsible for a huge surge in demand for scrap over the long run. The US, formerly the steel center of the world, has 100 years worth of high quality scrap laying around, and China doesn't. You wouldn't happen to know of any publicly traded US company with a vast network of scrap collection, technology to sort and process that scrap, and strategic export hubs to export that scrap, would you?
+
+SCHN also makes for a very juicy acquisition target, which would make sense given the recent narrative of steel consolidating in the US.
+
+# VI. That's all.
+
+I was not intending to go so hard on this DD but what can I say? I love you guys. Now, please, make me fucking rich.
+
+Positions, again:
+
+&amp;#x200B;
+
+[pls fly](https://preview.redd.it/qtaqlw1sk1a71.png?width=889&amp;format=png&amp;auto=webp&amp;s=83894bf578ec99a9383877bac17384b3ab6727a4)
+
+Recommended positions: The same as mine, obviously.
+
+Take care, and see you all in Part III, where I get more in depth about SCHN.",0.84,823.0,0.0,823.0
+75,wallstreetbets,SP500 Winners and Losers | 7/9/2021," **Winners**
+
+Winner f the day by sector | **SP500**:  
+
+
+**Sector |** Company **| Ticker |** % Price Change
+
+1. **Industrials** | Kansas City Southern | **KSU** | 4.25%  
+2. **Health Care** | Viatris Inc | **VTRS** | 3.85%  
+3. **Information Technology** | Western Digital Corp | **WDC** | 3.47%  
+4. **Communication Services** | Interpublic Group of Companies Inc | **IPG** | 3.60%  
+5. **Consumer Discretionary** | PVH Corp | **PVH** | 4.94%  
+6. **Utilities** | NRG Energy Inc | **NRG** | 2.09%  
+7. **Financials** | Discover Financial Services | **DFS** | 6.19%  
+8. **Materials** | Freeport-McMoRan Inc | **FCX** | 5.22%  
+9.  **Real Estate** | Simon Property Group Inc | **SPG** | 3.71%  
+10. **Consumer Staples** | SYSCO Corporation | **SYY** | 2.49%  
+11. **Energy** | Nov Inc | **NOV** | 5.99%  
+
+
+**Losers**
+
+Loser of the day by sector | **SP500**:
+
+**Sector | Company | Ticker | % Price Change**  
+
+
+1. Industrials | **IHS Markit Ltd** | INFO | **-0.51%**  
+2. Health Care | **Biogen Inc** |  BIIB | **-2.95%**  
+3. Information Technology | **Citrix Systems, Inc.** | CTXS | **-0.60%**  
+4.  Communication Services | **Charter Communications Inc** | CHTR | **-0.95%**  
+5. Consumer Discretionary | **Etsy Inc** | ETSY | **-0.47%**  
+6. Utilities | **Dominion Energy Inc** | D | **-0.53%**  
+7. Financials | **S&amp;P Global Inc** | SPGI | **-0.57%**  
+8. Materials | **Ball Corporation** | BLL | **-0.59%**  
+9. Real Estate | **Equinix Inc** | EQIX | **-0.95%**  
+10. Consumer Staples | **Campbell Soup Company** | CPB | **-0.48%**  
+11. Energy | **No losers** | |",0.57,3.0,0.0,3.0
+76,wallstreetbets,$VRTX is a DEEP VALUE Biotech Cash-Flow Machine,"&amp;#x200B;
+
+https://preview.redd.it/sf2idk0lp7a71.png?width=1200&amp;format=png&amp;auto=webp&amp;s=8a2bb8815f89bf5ef84104e9775e85d16ca852e2
+
+Vertex Pharmaceuticals is a large-cap American biopharmaceutical company which uses rational drug design to develop treatments for several disorders. The stock has been long overlooked by retail investors but is no stranger to institutions -- massive hedge funds such as Renaissance Technologies, Point72 and Man Group are all long with large positions. Currently, there are several catalysts for growth in the upcoming years for Vertex. VRTX is the single best biotech stock to buy right now.
+
+Here is some analysis regarding Vertex’s operations, financials and future growth prospects…
+
+&amp;#x200B;
+
+*1.  TRIKAFTA*
+
+*“Cystic fibrosis, a rare, progressive, life-threatening disease, results in the formation of thick mucus that builds up in the lungs, digestive tract, and other parts of the body. It leads to severe respiratory and digestive problems as well as other complications such as infections and diabetes. Cystic fibrosis is caused by a defective protein that results from mutations in the CFTR gene. While there are approximately 2,000 known mutations of the CFTR gene, the most common mutation is the F508del mutation. Trikafta is a combination of three drugs that target the defective CFTR protein. It helps the protein made by the CFTR gene mutation function more effectively. Currently available therapies that target the defective protein are treatment options for some patients with cystic fibrosis, but many patients have mutations that are ineligible for treatment. Trikafta is the first approved treatment that is effective for cystic fibrosis patients 12 years and older with at least one F508del mutation, which affects 90% of the population with cystic fibrosis or roughly 27,000 people in the United States” ­*– US Food and Drug Administration
+
+Trikafta is the first FDA approved treatment for cystic fibrosis which is capable of treating 90% of patients with the disorder. Vertex currently has a firm **ECONOMIC MOAT** on medicinal treatment for cystic fibrosis as it is the only company with FDA approved drugs for treating the disorder. Trikafta accounts for 70% of Vertex’s revenues and has the potential to drive far more profit for the company with the massive expanding global cystic fibrosis therapeutics market. Grand View Research expects the global cystic fibrosis therapeutics market to grow at a rate of 16.7% CAGR until 2025. Vertex could see growth which far exceeds that of this market due to its ever-growing share in the market. Essentially, the global cystic fibrosis therapeutics market growth rate + Trikafta’s market share growth rate would equate to Vertex’s revenue growth rate with Trikafta. With the drug’s increasingly large presence abroad due to the new approval in Canada as well as across Europe in several countries (57% increase in product revenue in Europe from 2020-2021), Trikafta could become an absolute **CASH-FLOW MACHINE** for Vertex. At the cost of $311,000 for Trikafta, Vertex could mass up to $8.4B in annual revenue if it were to capture the entire US market share alone. While the drug brought in just over $3.8B in 2020, there is still lots of room for Trikafta in Vertex’s domestic market, not to mention the great potential to scale internationally which has already been initiated.
+
+\*[https://www.grandviewresearch.com/press-release/global-cystic-fibrosis-cf-therapeutics-market](https://www.grandviewresearch.com/press-release/global-cystic-fibrosis-cf-therapeutics-market)
+
+&amp;#x200B;
+
+*2.  GROWTH*
+
+[Revenue Growth \(2015-Current\)](https://preview.redd.it/7hzv9l0zp7a71.png?width=2400&amp;format=png&amp;auto=webp&amp;s=c3c66e5eff78af0aa63fd3988708e95c3c42148f)
+
+Revenue YoY Growth: **33.10%** **LTM**
+
+Diluted EPS YoY Growth: **81.55%** **LTM**
+
+Cash from Operations YoY Growth: **63.03%** **LTM**
+
+Past 5 years Annual Earnings Growth: **53.9%**
+
+As Trikafta’s patent has 16 years until expiry (expiry in 2037), Vertex’s largest source of revenue is here to stay and will continue to grow with the increasingly large demand for such treatment. Any new advances in pipeline for Vertex would also drive tremendous growth for additional revenues. On average, analysts are forecasting earnings growth greater than 20% for the upcoming year, however, with the average earnings surprise of 11.65% from the last four quarters, I believe that earnings growth &gt;30% is fair and to be expected.
+
+Vertex’s **high return on equity** of 23.0% exceeds the industry average of 16.6% which demonstrates the company’s ability to successfully generate income and growth from equity financing – another positive and promising sign for future growth.
+
+&amp;#x200B;
+
+*3.  VALUATION*
+
+[ Historical P\/E, EV\/EBITDA, EV\/Sales of VRTX \(2018-2021\)](https://preview.redd.it/8dfkcshxp7a71.png?width=2400&amp;format=png&amp;auto=webp&amp;s=d3faef4300ca5119d50829d3ecdcc53c42b18f5d)
+
+VRTX has become increasingly cheap over the past few years. The stock has risen significantly in the same time that its P/E multiple has significantly decreased. The stock now trades at 18.81x earnings 15.96x forward earnings, representing a 1.59 PEG. This puts VRTX far below the Nasdaq biotechnology industry average of 30x earnings. VRTX is currently **EXTREMELY CHEAP** based on the most common valuation metrics.
+
+Based on a discounted cash-flow analysis of VRTX, an **intrinsic value of $406.58** can be extrapolated which presents a &gt;50% discount to its current share price of $197.74 (assumptions include a discount rate of 6.5% based on the calculation cost of equity).
+
+This is all to say that VRTX has some serious **DEEP VALUE** and a return to industry average earnings multiples or simply maintaining a similar valuation based on earnings would provide drastic upside (&gt;50%) based on future outlook.
+
+&amp;#x200B;
+
+*4.  BALANCE SHEET*
+
+&amp;#x200B;
+
+[ Vertex Pharmaceuticals Inc. Balance Sheet \(2021-03-31\)](https://preview.redd.it/k4xe9391q7a71.jpg?width=2928&amp;format=pjpg&amp;auto=webp&amp;s=593d17e2db8127251b49b9872368da61aad3ea98)
+
+Quick Ratio: **4.20**
+
+Current Ratio: **4.40**
+
+Debt/Equity: **0.00**
+
+LT Debt/Equity: **0.06**
+
+Vertex Pharmaceuticals’ balance sheet is **extremely strong** with minimal debt relative to cash and current assets. The company has also made it clear that they are looking to use their large cash reserve for the acquisition of both drugs and of other pharmaceutical/biotech companies. There is virtually no risk debt-wise for Vertex – a rise in interest rates would not pose troubles to the company at all. Vertex’s current financial health is certainly the best in the biotech industry.
+
+&amp;#x200B;
+
+*5.  RESEARCH &amp; DEVELOPMENT*
+
+&amp;#x200B;
+
+https://preview.redd.it/0mqkw3wvp7a71.jpg?width=1642&amp;format=pjpg&amp;auto=webp&amp;s=65f54a11041b71d7687257302149a0e7d8e9baf7
+
+Vertex is in the process of developing several breakthrough therapies for serious diseases and has shown promising success with many of their clinical trials. FDA approval for any of these products would be highly significant for Vertex and extremely rewarding for shareholders. In the event that Vertex is successful in their cell therapy for type-1 diabetes, they could potentially **cure type-1 diabetes** and thus would consequently capture a large share of T1D market that is expected to grow to $24B by 2029\*. Vertex is continuing to advance in the development of molecular, cellular and genetic therapies aimed at treating many serious diseases. Overall, Vertex is in the process of developing revolutionary treatments that could significantly disrupt the biotech industry. Below is the stated progress on Vertex’s R&amp;D from the latest 10k…
+
+\*[https://www.businesswire.com/news/home/20210419005489/en/Global-Type-1-Diabetes-Drug-Forecast-and-Market-Analysis-Report-2021-Market-Will-Grow-to-24-Billion-by-2029---Opportunity-Remains-for-Beta-Cell-Regenerative-Therapies---ResearchAndMarkets.com](https://www.businesswire.com/news/home/20210419005489/en/Global-Type-1-Diabetes-Drug-Forecast-and-Market-Analysis-Report-2021-Market-Will-Grow-to-24-Billion-by-2029---Opportunity-Remains-for-Beta-Cell-Regenerative-Therapies---ResearchAndMarkets.com)
+
+*Beta Thalassemia and Sickle Cell Disease*
+
+In December, we and our collaborator, CRISPR, announced positive interim data from 10 people with TDT or SCD treated with CTX001 and that 20 people with severe hemoglobinopathies have been dosed with CTX001 in the ongoing Phase 1/2 clinical trials. Enrollment and dosing are ongoing, and completion of enrollment in both clinical trials is expected in 2021.
+
+*Alpha-1 Antitrypsin Deficiency*
+
+Enrollment is ongoing in a Phase 2 proof-of-concept clinical trial for the corrector VX-864. We expect data from this clinical trial in the first half of 2021.
+
+We discontinued development of VX-814, our first corrector, based on the safety and pharmacokinetic profile of VX-814 observed in a Phase 2 clinical trial.
+
+*APOL1-Mediated Kidney Diseases*
+
+Enrollment is ongoing in a Phase 2 proof-of-concept clinical trial designed to evaluate the reduction of proteinuria in people with APOL1-mediated FSGS after treatment with VX-147. We expect data from this clinical trial in 2021.
+
+*Type 1 Diabetes*
+
+We are developing a cell therapy designed to replace insulin-producing islet cells in patients with T1D. We are pursuing two programs for the transplant of these functional islets into patients: transplantation of islet cells alone, using immunosuppression to protect the implanted cells, and implantation of the islet cells inside a novel immunoprotective device. In January 2021, the FDA cleared our IND for VX-880, the islet cells alone program. We expect to initiate a Phase 1/2 clinical trial evaluating this program in the first half of 2021. This clinical trial will involve an infusion of fully differentiated, functional islet cells, and chronic administration of concomitant immunosuppressive therapy, to protect the islet cells from immune rejection. 
+
+*Investment in External Innovation*
+
+\-  We entered into a collaboration with Skyhawk Therapeutics, Inc., or Skyhawk, for the discovery and development of novel small molecules that modulate RNA splicing for the treatment of serious diseases. 
+
+\-  We entered into a new collaboration with Moderna, Inc., or Moderna, aimed at the discovery and development of lipid nanoparticles and mRNAs that can deliver gene-editing therapies to lung cells for the treatment of CF. 
+
+\-  We entered into a collaboration with Affinia Therapeutics, Inc., or Affinia, to gain access to a novel library of AAV capsids to support on our ongoing research and development efforts in genetic therapies, including DMD, DM1 and CF.
+
+&amp;#x200B;
+
+*6.  OTHER POSITIVE SIGNS*
+
+·  $1.5B share repurchase program (June 2021-December 2022)
+
+·  High net income margin: **49.00%**
+
+·  Large hedge fund ownership
+
+·  Average analyst price target **&gt;$260**
+
+·  Buy-Strong Buy consensus across Wall Street
+
+·  No underperform or sell targets
+
+&amp;#x200B;
+
+**TDLR:**
+
+Vertex Pharmaceuticals presents remarkable upside for growth with their current products which are continuing to gain market share in an ever-growing therapeutics market, as well as with several breakthrough therapies which have shown to have promising results in recent clinical trials. Such high growth prospects paired with an undervalued company with solid financials makes for a great investment especially at the cheap price it is currently trading at.
+
+&amp;#x200B;
+
+I am long shares (around 15% of my total portfolio) but LEAPS would also be a great way to play VRTX
+
+&amp;#x200B;
+
+\*\*NOT FINANCIAL ADVICE\*\*",0.58,11.0,0.0,11.0
+77,wallstreetbets,Margin Debt: The Sleeping Dragon,"
+~Traditional and Growth Stocks are saturated and price levels are elevated, allowing highly speculative trading activity
+
+~Companies and retail investors are taking riskier gambles: Morgan Stanley actively endorsing meme stocks
+
+~The rising value of all equities has allowed greater amounts of leverage/margin debt to be taken on using the overvalued stocks as collateral further propping up stock prices
+
+~Digital coin’s bull run is also built on both margin leverage and the flush of cash from stimulus
+
+~As cash stimulus tapers off margin debt will increase even further
+
+~Margin debt to gdp is equal to and exceeding the the dot com bubble and the housing crisis eras
+
+~Overall Margin Debt is at it’s highest level ever corresponding with ATH of the S&amp;P 500
+
+Evidence: https://www.investing.com/analysis/the-volume-of-speculation-index-blows-off-200558416
+
+Credit: Jesse Felder
+
+Evidence: https://youtu.be/9jkmvGR4NSY
+
+Credit: Heritage Wealth Planning
+
+~The market is now a veritable Jenga tower, The lower supports have been sacrificed and pulled out to be used to build the tower higher
+
+~As stock prices have increased the market is becoming more and more unstable with margin debt skyrocketing
+
+~ A single systematic event would be enough to topple the unstable market and shear off gains
+
+~As fear sets in and stocks sell off margin will be called in initiating a downward cascade on all equities
+
+~Major Correction In Bound
+
+~Highly recommending VIX LEAP Calls (Taking advantage of market fear and uncertainty) and Index LEAP Puts
+
+~Moderately recommending Inverse and Inverse Leveraged ETFS on the S&amp;P 500 and SPDR
+
+~Minimally Recommending LEAP Puts on overvalued individual stocks
+
+~Inflation is the smoke, Margin Debt is the dragon",0.83,114.0,0.0,114.0
+78,wallstreetbets,SPCE TO THE 🌙 literally!,,0.85,343.0,0.0,343.0
+79,wallstreetbets,"Housing a Big Bubbly Pile of Garbage that will soon be on Fire, a follow up to my Market Crash Post","So I made this [post](https://www.reddit.com/r/wallstreetbets/comments/oe9ruu/how_to_play_the_upcoming_market_crash/) about how to play the coming market crash and a lot of you have been asking, both in the comments and messages, about why I think the housing market is fucked and bubbly and primed for a crash.  There's a bunch of reasons I'll get to shortly, but first lets take a little trip down memory lane to 2000-2001 in California when there were a bunch of rolling energy blackouts.
+
+In 2000, California was getting hit with blackouts and high prices, power companies were failing, and it seemed like the crisis came out of nowhere.  I remember watching this on the news and being confused as to how Cali had power for all their stuff last week, but not this week, and all the press talked about how this was the new normal and people needed to get used to it/stop using so much power/people were too greedy with AC, etc. etc.  Then there was this one guy who came out and said Gov. Gray Davis should send the National Guard to seize the power plants and keep them on.  Everyone pointed and laughed at the crazy conspiracy guy.  Except, here's the kicker.  Crazy conspiracy guy was 100% right.  Enron was shutting down power plants to drive up demand and cause artificial shortages to make money.  When the blackouts and price spikes were happening, Cali had 45GW of installed power, and demand was running at 28GW.  Fuckery was afoot.
+
+So, whenever I see something that doesn't make sense in any kind of market, I always wonder, is there a reason for this?  Or is it Fuckery?  Let's talk about the current boom in housing prices and why I suspect Fuckery.
+
+All data is taken from the Fed and the US Census Bureau.  I left off decimals wherever possible because I know my audience can't do that kind of fancy math.
+
+In 2004 (roughly the peak of US homeownership rates) the US homeownership rate was a bit over 69%.  In 2021 it's at 65%.  In 2004 there were 122 million housing units in the US.  In 2021 it's 141 million.  US population in 2004 was 292 million.  In 2021 it's 331 million.  Throw all these numbers into a blender and you get:
+
+A 13% increase in population, a 4% decrease in homeownership rate, and a 15% increase in housing supply.  Yes, that's right, the housing supply has increased faster than the population, and the homeownership rate during that time has dropped.  So where the fuck is this crazy demand coming from?
+
+Are people making more money?  Nope.  Workers share of corporate income has fallen from 79% in 2004 to 77% in 2021.  So in real terms wages are down.
+
+Is it immigrants?  Nope, immigration has been falling for years.
+
+Is it young people starting families?  Nope, family formation is close to all time lows and the oldest millennials who are approaching 40, are 20% poorer than boomers were at their age.
+
+Is it inflation?  Nope, bond yields are currently signaling deflation, but the bond market has been wonky as fuck all year so who really knows.
+
+So basically you've got more supply relative to population, construction of new units is slowing down - 1.8 million starts in Jan to 1.7 million starts in March down to 1.6 million starts in May, prices are rising, and sales are slowing.  Jan 6.5 million existing home sales, 993,000 new home sales.  May 5.8 million existing home sales, 769,000 new home sales.
+
+So, to recap for the slower folks in the helmets on the short bus with the flavored windows:
+
+**Prices: Up.  Wages: Down.  Supply relative to population: Up.  Demand: Down.  Sales: Down. Construction: Down.**
+
+Yeah, it's a fucking bubble.  And clearly, Fuckery is Afoot.  Who is doing the fuckery and why I don't know.  Maybe it's Chinese nationals trying to get money out of the CCP's control, maybe it's AirBnB, maybe it's Blackrock and REIT ETF's, maybe it's something else entirely, but it's definitely a bubble, and it's definitely Fuckery.
+
+**TLDR: Fuckery is Afoot.  It's a bubble.  Don't buy a house until the market crashes.  And remember, millions of units are waiting to come on the market once evictions start up again.**
+
+Positions, same as the last post, puts on HYG because there are a lot of bullshit zombie companies that should have died years ago but are propped up by index investing and cheap corporate debt that the FED keeps buying, calls on SPXS because when this thing pops it's going to explode like nothing seen before to the point where Bigfoot and the Loch Ness Monster are going to sit around roasting marshmallows on the dumpster fire that used to be the stock market.
+
+One last nugget about housing?  Residential Fixed Investment (it's a recession indicator, the acronym is apparently a banned ticker) was declining before the COVID crash, we were actually just starting a normal recession when that hit, which caused the FED to hit the panic button on the money printer.  On a 30 year or more chart SPY has been vertical since the COVID bottom.  Vertical lines in an index on a long term chart like that generally indicate the euphoria phase that precedes a massive crash.
+
+My date range remains unchanged, sometime between June and November of this year.  If you want some specific dates to watch, check July 12th, July 19th, August 23rd, September 20th, and October 25th.  I probably like August 23rd the most of those, but I buy retard positions on WSB, so you definitely shouldn't listen to me.
+
+EDIT: Sorry I've haven't updated this and am just now getting around to replies.  Got my first pump and dump shill DM, so that's an achievement unlocked I guess.
+
+I just want to say how much I love all you beautiful retards.  Half the goddamn replies are ""housing is up where I live so there's no bubble""  The absolute best was the guy who pointed at a bunch of houses near him that have 10x'd in the last few years, and the one he just sold that nearly 2x'd in a year and a half.  Bro.  THAT IS THE FUCKING BUBBLE INFLATING.  Like, the sheer number of you who think pointing out high prices rising fast refutes instead of confirms my thesis is amazing.  Pure WSB retardation gold there.
+
+To explain something else that I'm seeing mentioned a lot, renters ARE accounted for, so are multifamily households.  That's why I used total population and total houses and homeownership rate.  +40 million people and +20 million houses only works out to less supply if well more than half of those 40 million are living alone.  And spoiler, they aren't.  The decline in homeownership coincides with the increase in renters.
+
+EDIT2: because I'm seeing a lot of ""but people own more than one house"" posts.  A pair of quotes:
+
+""I own six houses.  And a condo.""   ""THERE'S A BUBBLE!!!""",0.89,1674.0,0.0,1674.0
+80,wallstreetbets,$30k 7/9 TSLA YOLO,,0.86,288.0,0.0,288.0
+81,wallstreetbets,Can you lose more than 100%,,0.81,91.0,0.0,91.0
+82,wallstreetbets,Holding these through the night. Gonna be difficult trying to fall asleep tonight. See you in $SPCE.,,0.73,56.0,0.0,56.0
+83,wallstreetbets,"What Are Your Moves Tomorrow, July 09, 2021","Your daily trading discussion thread. Please keep the shitposting to a minimum. 
+
+^Navigate ^WSB|^We ^recommend ^best ^daily ^DD
+:--|:--                                 
+**DD** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ADD) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADD&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADD&amp;restrict_sr=on&amp;t=week)
+**Discussion** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ADiscussion) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADiscussion&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ADiscussion&amp;restrict_sr=on&amp;t=week)
+**YOLO** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3AYOLO) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AYOLO&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AYOLO&amp;restrict_sr=on&amp;t=week)
+**Gain** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3AGain) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AGain&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3AGain&amp;restrict_sr=on&amp;t=week)
+**Loss** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ALoss) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ALoss&amp;restrict_sr=on&amp;t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&amp;q=flair%3ALoss&amp;restrict_sr=on&amp;t=week)
+
+[Weekly Earnings Discussion Thread](https://www.reddit.com/r/wallstreetbets/search?sort=new&amp;restrict_sr=on&amp;q=flair%3A%22Earnings%20Thread%22)
+
+**Read the [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide) and make sure other people follow them.**
+
+Try [No Meme Mode](https://www.reddit.com/r/wallstreetbets/search/?q=-flair%3AMeme%20-flair%3ASatire%20-flair%3AShitpost&amp;restrict_sr=1&amp;t=day&amp;sort=hot), also accessible through the top bar.
+
+Follow [@Official_WSB](https://twitter.com/Official_WSB) on Twitter, all other accounts are impersonators.
+
+Check out our [Discord](https://discord.gg/wallstreetbets)",0.87,368.0,0.0,368.0
+84,wallstreetbets,I don’t understand how people still think airlines are on the edge of bankruptcy. Look at these mad cheap calls. Let’s gooo,,0.62,18.0,0.0,18.0
+85,wallstreetbets,DD on BLDR! Expecting a big upward run in the coming future due to more construction and safer residential building requirement amid Miami Building Collapse!,"I am not a WSB Rocket Scientist and I don't catch rockets like ya'all do here with your GME AMC CLOVS AND WISH stonks. I am a full-time Structural Engineer and I am have heavily invested in BLDR (Builders First Source), one of the leading construction material suppliers in the US.
+
+The company has an average price target to be $60 in 12 months among most of the analysts. Recently they bought out the software solutions system WTS Paradigm to increase their online capabilities and expected to make $50M revenue just from the WTS paradigm per year. BLDR has been profiting from the price hike on construction materials since the beginning of the pandemic as high demand and low supply caused massive price hikes. Also, the recent collapse of the Miami Residential Apartment building caused a shockwave in the housing and among the builders, engineers in the whole nation. Adding with the US withdrawal of troops from foreign lands and focusing on infrastructure building for the national future, I am highly convinced that BLDR will only grow in the coming days.
+
+&amp;#x200B;
+
+https://preview.redd.it/dgn7k57jz8a71.png?width=1548&amp;format=png&amp;auto=webp&amp;s=dea9197139cca7a078813d80e53f4843151c4ba9
+
+All major analysts have a BUY rating on this stock right now as the price dropped from ATH of 52.00 due to over-sell-off and profit-taking after a long bull run. But I believe it will get back to its ATH Position and once it hit that, it will be going toward the $65-$70 Range. A potential 40-50% upside is expected. Their third-quarter earning is coming in August and I have no doubt in mind it will be higher than expected EPS. This coming earning call increases the price of the stock as well.
+
+&amp;#x200B;
+
+[https:\/\/finance.yahoo.com\/news\/builders-firstsource-inc-nasdaq-bldr-062424085.html](https://preview.redd.it/d3m146ky79a71.png?width=689&amp;format=png&amp;auto=webp&amp;s=4c58cca56635b019a1d5e6819e15061fb87c8150)
+
+I appreciate your positive/negative thoughts on this company.
+
+Position: 200 stocks@43.50.",0.54,3.0,0.0,3.0
+86,wallstreetbets,Volkswagen and BMW fined $1 billion for running emissions cartel,,0.92,447.0,0.0,447.0
+87,wallstreetbets,NVIDIA launches UK’s most powerful supercomputer for research in AI and healthcare,,0.71,33.0,0.0,33.0
+88,wallstreetbets,Wells Fargo to close all personal lines of credit - CNBC,,0.94,388.0,0.0,388.0
+89,wallstreetbets,🏦$3.8 Million in MOMO 🚀📈,,0.81,437.0,0.0,437.0
+90,wallstreetbets,Balls deep in on $PUBM 💎,,0.7,39.0,0.0,39.0
+91,wallstreetbets,"In the city, the city of $COMP-ton","**$COMP (Compass Inc.) -- real estate sector**
+
+Some quick DD for ya. Sexy and risky RE play laying foundations for long term market grab. Swooned many agents with aggressive signing bonuses and fancy tech, making their model cost-heavy upfront (earning some hawkish analysis).  But, depending on how they pivot from here (CEO seems to be the innovative type) could set them up for a great stock range of movement (which would be based on long-term speculation from the market). I'm looking for $13 to be retested and held to enter a swing in Nov 19 15c options.
+
+* Revenue +80% y/y
+* U.S. Market share 5.25% vs. 3.8% y/y Q1
+* Average agent closing \~40% more transactions (seems like easy mode in this market)
+* 136m free cash flow (was negative 300m last year)
+* IPO'd a few months ago at $18/sh, has started to find support and retrace
+*  Trading at &lt;1x forward revenue multiple 
+* Many top RS firms and agents have been 'lured' over to Compass for their proprietary in-house technology and marketing platform. 
+* Growing international footprint (just announced plans to double their headcount in their India Development Centre \[+200 employees\])
+* Investing in modern tech to keep agents ahead of the curve (Just launched ""Video Studio"" an AI-powered, video-based suite of tools that empowers agents to create professional, custom listing videos in minutes and share them seamlessly with their networks.)
+* Optionable (my strategy is set an alert at $13 for a support test, if confirmed planning to long the Nov 19 15c, otherwise over 14.5 will go for the 17.5c instead)
+* Random fun fact: CEO has a MasterClass on buying/selling homes (watched it, guy seems like an Obama+Bezos hybrid personality)
+
+[Future Meme CEO Hall of Fame](https://preview.redd.it/84ya41xlx8a71.png?width=620&amp;format=png&amp;auto=webp&amp;s=9367b1a239374198182b80e47e2b1adad69790f5)
+
+&amp;#x200B;
+
+[Daily Chart](https://preview.redd.it/k91ip5i609a71.png?width=1282&amp;format=png&amp;auto=webp&amp;s=89e8444684adcaf564f513dd200d90d9c2294cc8)
+
+&amp;#x200B;
+
+[Price Targets](https://preview.redd.it/dxo6hm3909a71.png?width=862&amp;format=png&amp;auto=webp&amp;s=598a090351e93056d2687bfec92430d32c6bb09d)",0.54,4.0,0.0,4.0
+92,wallstreetbets,150k EDIT YOLO,,0.56,5.0,0.0,5.0
+93,wallstreetbets,U.S. Hotels Finally Surpass Pre-Covid Levels as Travel Surges,,0.76,36.0,0.0,36.0
+94,wallstreetbets,All memes all the time makes me a dumb boy.,,0.9,669.0,0.0,669.0
+95,wallstreetbets,I might have held these for a bit too long 😬,,0.92,470.0,0.0,470.0
+96,wallstreetbets,$148k SPCE yolo. Wish I hadn’t paper handed the options.,,0.83,195.0,0.0,195.0
+97,wallstreetbets,CLF YOLO,,0.84,152.0,0.0,152.0
+98,wallstreetbets,"How your “brilliant”, “free money,” “LITERALLY CAN’T GO TITS UP!!!” SHEN dividend play is going to go tits up.","Ok, look. I know. I was as excited as everyone else about a shitty telecom stock with fucking Shenandoah in the title that is paying out a fucking $18.75 PER SHARE dividend. 
+
+Then I did the math. “Oh look, I can buy 100 shares for $55. Then I can buy a $55 put for $300. I’ll get the $18.75/ share dividend ($1875), exercise the put contract and stick that theta cuck that sold me this contract with 100 shares and make him eat the loss. Easiest $1575 I’ve ever made. 
+
+Hell, why am I only doing one of these? Let’s LEVER TF UP, it’s only a $1k buying power hit for each one! I’ve found the fucking money printer bitches!!!!!!
+
+Wrong. 
+
+The issue with the special dividend is that not only is the share price going to be adjusted down by the amount of the dividend, your put contract strike price will be adjusted down as well. By the amount of the dividend. So that 55 strike put you bought is now a $36.25 strike. 
+
+It’s (probably) not going to vaporize your account the way that a bunch of short box spreads can (praise be to 1ronyman, patron saint of free money), but it’s not going to be the massive winner you think. 
+
+[fidelity article on special dividend adjustments](https://www.fidelity.com/learning-center/investment-products/options/contract-adjustments)",0.9,225.0,0.0,225.0
+99,wallstreetbets,"Daily Option Statistics for AMC, SPCE, NEGG, GME, WISH, CLOV, BABA, PLTR, AAPL and others.","Hey guys,
+
+Here are the daily option statistics. The biggest movers today were SPCE with a great +17.30% and AMC with a good 7%. Other then that NEGG plummeted around 32%.
+
+Great job to anyone who made money off this madness.
+
+Below are the daily option statistics.
+
+&amp;#x200B;
+
+# AMC:
+
+[+6.37&amp;#37;](https://preview.redd.it/eefhgqkcu1a71.png?width=1506&amp;format=png&amp;auto=webp&amp;s=db895ea2a8123f998bc32cc7e2cff69bb87041d8)
+
+# SPCE:
+
+[+17.30&amp;#37;](https://preview.redd.it/t5o4ek3du1a71.png?width=1505&amp;format=png&amp;auto=webp&amp;s=f8c5943e3cac20aad2c21b27dd97b64a2f43a650)
+
+# NEGG:
+
+[-32.22&amp;#37;](https://preview.redd.it/5ryo2nndu1a71.png?width=1506&amp;format=png&amp;auto=webp&amp;s=8826c7f0fcb38e20bad8d31666a7d8487abab0f1)
+
+# GME:
+
+[+0.38&amp;#37;](https://preview.redd.it/m981zt8eu1a71.png?width=1505&amp;format=png&amp;auto=webp&amp;s=d00bdccb4be9b5ffa4b2abaaea9b0f34a72a2fa3)
+
+# WISH:
+
+[+0.46&amp;#37;](https://preview.redd.it/s7cvcgqeu1a71.png?width=1506&amp;format=png&amp;auto=webp&amp;s=2fd8dc3e00f21fa1947abe2452e4ba2296a13118)
+
+# CLOV:
+
+[-3.70&amp;#37;](https://preview.redd.it/ojn8qlbfu1a71.png?width=1507&amp;format=png&amp;auto=webp&amp;s=3510924ad47be70308c27b413883bf513e0714b6)
+
+# BABA:
+
+[-3.92&amp;#37;](https://preview.redd.it/a1ab5p1gu1a71.png?width=1504&amp;format=png&amp;auto=webp&amp;s=73bec663497211f93745b15e604b9580250a9c20)
+
+# PLTR:
+
+[+0.83&amp;#37;](https://preview.redd.it/6vf5bkkgu1a71.png?width=1505&amp;format=png&amp;auto=webp&amp;s=e8a0619fc2ad7e0dfe48f4b2f4bb85d5ad0e39a9)
+
+# AAPL:
+
+[-0.92&amp;#37;](https://preview.redd.it/jixl6n4hu1a71.png?width=1492&amp;format=png&amp;auto=webp&amp;s=7d9a4239392f683acbb5455627d69885d2ea4f1f)
+
+**Requested:**
+
+# PUBM:
+
+[+4.02&amp;#37;](https://preview.redd.it/5mgmv4syw1a71.png?width=1505&amp;format=png&amp;auto=webp&amp;s=eeaf6cce68a091ea69222f14816026560d1971f1)
+
+# NIO:
+
+[-0.96&amp;#37;](https://preview.redd.it/hc5ty2izi3a71.png?width=1492&amp;format=png&amp;auto=webp&amp;s=758e7bcf83024b2e2d216ed70ee831b92951c668)
+
+# SOFI: 
+
+[-1.89&amp;#37;](https://preview.redd.it/a6yd7ff7j3a71.png?width=1506&amp;format=png&amp;auto=webp&amp;s=56b39a2c5cf7b074a3ccdc9dbdacd03eda42ad6a)
+
+As usual let me know if I forgot anything. I will be back on in about an hour to fix this post up.
+
+Until next time, best of luck in your investing!",0.86,115.0,0.0,115.0
+100,wallstreetbets,Wow yesterday I gained on $NEGG now today it’s $SPCE! I bought these calls on Tuesday and now I profit! I bought the $60 end of day today and I am GLAD because it is currently up aftermarket,,0.71,84.0,0.0,84.0
+101,wallstreetbets,$BABA $25k yolo on sept $220 calls.,,0.81,101.0,0.0,101.0
